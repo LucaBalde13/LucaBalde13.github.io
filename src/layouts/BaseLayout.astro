@@ -1,6 +1,5 @@
 ---
 import "../styles/global.css";
-import siteScript from "../scripts/site.js?url";
 
 const {
   title,
@@ -31,6 +30,8 @@ const {
   </head>
   <body>
     <slot />
-    <script type="module" src={siteScript}></script>
+    <script>
+      import "../scripts/site.js";
+    </script>
   </body>
 </html>
