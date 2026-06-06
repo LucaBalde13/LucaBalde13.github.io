@@ -1,0 +1,467 @@
+{
+  "profile_type": "content_creation_guidelines",
+  "brand": "BYO3",
+  "version": "1.0",
+  "last_updated": "2026-05-27",
+  "language": "italiano",
+  "status": "working_context_file_for_social_media_content_creation",
+  "content_strategy_summary": {
+    "primary_goal": "Costruire awareness, fiducia e curiosità educativa intorno all'ozono in capsule prima della vendita diretta.",
+    "current_business_context": "Nuovi account social, e-commerce in rifacimento, brand ancora non pronto a spingere conversione. La prima fase deve creare feed, credibilità, salvataggi, commenti e follower qualificati.",
+    "content_promise": "Segui BYO3 se vuoi capire l'ozono in capsule, senza promesse esagerate.",
+    "launch_phase_rule": "Prima educare. Poi vendere. Nella fase iniziale evitare push prodotto, prezzi, urgenza commerciale e CTA di acquisto.",
+    "creative_blend": "Thorne-style scientific premium + Hims/Hers-style bold editorial + versione BYO3 più luminosa e nutraceutica dei carousel reference caricati."
+  },
+  "audience_context": {
+    "main_icp": "Adulto/a italiano/a 35-65 anni, informato/a, scettico/a verso promesse miracolose, interessato/a a benessere quotidiano, integratori seri, Made in Italy, ricerca e routine sostenibili.",
+    "audience_mindset": [
+      "Vogliono capire prima di comprare",
+      "Hanno già visto troppi integratori tutti uguali",
+      "Sono attratti dalla scienza ma respinti dal gergo medico",
+      "Apprezzano l'onestà più della promessa forte",
+      "Cercano supporto graduale, non soluzioni lampo"
+    ],
+    "core_objections_to_address": [
+      "Funzionano davvero gli integratori a base di ozono?",
+      "È ozonoterapia o è un integratore?",
+      "Non sarà l'ennesima moda wellness?",
+      "Quanto tempo serve per percepire benefici?",
+      "Cosa lo rende diverso da un integratore normale?",
+      "È sicuro se prendo farmaci o ho condizioni mediche?"
+    ],
+    "audience_language_to_echo": [
+      "Sono stanco/a, ma non malato/a",
+      "Ho già provato di tutto",
+      "Vorrei capire cosa sto prendendo",
+      "Cerco qualcosa di naturale, ma serio",
+      "Non voglio promesse assurde",
+      "Mi interessa la prevenzione quotidiana"
+    ]
+  },
+  "content_pillars": {
+    "educa": {
+      "role": "Spiegare l'ozono in capsule, la differenza con ozonoterapia, stress ossidativo, olio ozonizzato, capsule gastroresistenti e logica della costanza.",
+      "best_formats": [
+        "Carousel educational",
+        "Single post statement",
+        "Mini-glossario",
+        "Mito vs realtà"
+      ],
+      "example_hooks": [
+        "Ozono in capsule. Non ozonoterapia.",
+        "Hai ragione a essere scettico.",
+        "Che cosa significa olio ozonizzato?",
+        "Stress ossidativo: non si vede, ma si sente.",
+        "Perché stabilizzare l'ozono?"
+      ]
+    },
+    "valida": {
+      "role": "Costruire fiducia attraverso tecnologia patentata, ricerca italiana, spiegazioni sobrie, trasparenza e differenziazione.",
+      "best_formats": [
+        "Mechanism carousel",
+        "Diagramma semplice",
+        "Post ricerca e tecnologia",
+        "Founder/science note futura"
+      ],
+      "example_hooks": [
+        "La tecnologia conta più della promessa.",
+        "Non basta dire ozono. Bisogna stabilizzarlo.",
+        "Capsule gastroresistenti: perché contano?",
+        "La scienza non ha bisogno di urlare."
+      ]
+    },
+    "umanizza": {
+      "role": "Rendere normale il dubbio, parlare a persone adulte, riconoscere esperienze reali senza diagnosticare o spaventare.",
+      "best_formats": [
+        "Bold editorial single post",
+        "Carousel con tensione umana",
+        "Caption riflessiva",
+        "Domanda community"
+      ],
+      "example_hooks": [
+        "Non promette miracoli. Promette costanza.",
+        "Se diffidi degli integratori, non hai torto.",
+        "Il corpo cambia. Il modo di supportarlo può cambiare con lui.",
+        "Prima capire. Poi scegliere."
+      ]
+    },
+    "differenzia": {
+      "role": "Separare BYO3 da integratori generici, detox, biohacking e promesse aggressive. Chiarire ciò che BYO3 non è.",
+      "best_formats": [
+        "Post manifesto",
+        "Checklist non siamo / siamo",
+        "Carousel confronto concettuale",
+        "Quote card"
+      ],
+      "example_hooks": [
+        "Non è detox. Non è biohacking. Non è magia.",
+        "Un integratore serio non deve promettere troppo.",
+        "Non serve urlare per essere scientifici.",
+        "La differenza è nella tecnologia, non nello slogan."
+      ]
+    },
+    "routine": {
+      "role": "Preparare il terreno alla futura conversione posizionando BYO3 come supporto quotidiano, graduale e sostenibile.",
+      "best_formats": [
+        "Routine post",
+        "Single image lifestyle",
+        "Carousel sulle settimane di costanza",
+        "Caption di educazione alla gradualità"
+      ],
+      "example_hooks": [
+        "Il beneficio non nasce dal picco. Nasce dalla costanza.",
+        "Una capsula non è una scorciatoia. È un gesto quotidiano.",
+        "Settimane, non giorni.",
+        "Il corpo risponde meglio quando non gli chiedi miracoli."
+      ]
+    }
+  },
+  "content_format_rules": {
+    "carousel": {
+      "primary_use": "Educare, spiegare un meccanismo, gestire un'obiezione o costruire una sequenza di consapevolezza.",
+      "ideal_length": "5-7 slide",
+      "structure": [
+        "Slide 1: hook forte e chiaro",
+        "Slide 2: normalizzazione del dubbio o del contesto",
+        "Slide 3: spiegazione semplice",
+        "Slide 4: meccanismo o differenza chiave",
+        "Slide 5: cosa significa nella routine quotidiana",
+        "Slide 6 opzionale: cosa BYO3 non promette",
+        "Slide finale: salvataggio/commento/follow educativo"
+      ],
+      "visual_rule": "Usare grandi titoli, pannelli leggeri, micro-elementi scientifici e molto respiro. Non sovraccaricare le slide con testi lunghi.",
+      "cta_examples": [
+        "Salvalo se vuoi ricordarti la differenza.",
+        "Scrivici 'ozono' se vuoi un post più tecnico su questo tema.",
+        "Segui BYO3 per capire l'ozono in capsule, senza promesse esagerate.",
+        "Condividilo con chi pensa che tutti gli integratori siano uguali."
+      ]
+    },
+    "single_image_post": {
+      "primary_use": "Creare impatto nel feed, fissare una frase manifesto, stimolare commenti e costruire memorabilità.",
+      "visual_rule": "Una sola idea, una frase forte, logo piccolo. Può essere tipografico puro o fotografia editoriale molto pulita.",
+      "caption_rule": "La caption deve espandere il concetto in modo educativo e umano. Non ripetere semplicemente il testo del visual.",
+      "example_visual_lines": [
+        "Hai ragione a essere scettico.",
+        "Non promette miracoli. Promette costanza.",
+        "Prima capire. Poi scegliere.",
+        "Ozono in capsule, spiegato bene."
+      ]
+    },
+    "future_reels": {
+      "primary_use": "Dalla seconda settimana in poi, trasformare i migliori carousel in video brevi con voiceover, testo a schermo e visual scientifici/lifestyle.",
+      "structure": "Hook nei primi 2 secondi, spiegazione in 2-3 punti, chiusura con follow o commento. Durata consigliata 15-35 secondi.",
+      "style": "Sobrio, chiaro, non influencer-hype. Meglio voce esperta e grafica pulita che trend casuali."
+    }
+  },
+  "carousel_visual_system": {
+    "adapted_from_uploaded_references": "La struttura dei reference caricati può ispirare BYO3, ma non va copiata. BYO3 deve mantenere sofisticazione, grandi titoli e pannelli traslucidi, ma con atmosfera più luminosa, scientifica e nutraceutica.",
+    "carry_over": [
+      "Hook grandi e diretti",
+      "Gerarchia editoriale forte",
+      "Sequenza narrativa chiara",
+      "Pannelli informativi traslucidi",
+      "Fotografia premium",
+      "Oggetti scientifici come vetro, olio, capsule e texture molecolari",
+      "Numerazione discreta delle slide"
+    ],
+    "change_for_byo3": [
+      "Meno fondi scuri e meno mood clinico",
+      "Più luce, aria, blue-grey, warm white",
+      "Meno diagnosi, più educazione",
+      "Meno 'hai X alto', più 'ecco cosa significa'",
+      "Logo BYO3 piccolo e discreto",
+      "Più elementi ozono/capsula/olio, meno test/clinica/protocollo"
+    ],
+    "avoid_copying": [
+      "Stesso font ultra-condensed se riconoscibile",
+      "Stesso lockup basso grande",
+      "Stessa palette dark clinic dominante",
+      "Stessi panel arrotondati con identica composizione",
+      "Stessa sequenza problema-test-protocollo"
+    ],
+    "byo3_sequence_model": "confusione -> educazione -> tecnologia -> routine -> fiducia",
+    "not_byo3_sequence_model": "sintomo -> diagnosi -> test -> protocollo -> vendita clinica"
+  },
+  "copywriting_rules": {
+    "tone": "Autorevole, accessibile, adulto, sobrio. Diretto nei titoli, più esplicativo nelle caption.",
+    "hook_principles": [
+      "Partire da un dubbio reale",
+      "Dire una cosa precisa, non generica",
+      "Usare frasi corte",
+      "Evitare promesse forti",
+      "Creare contrasto: non questo, ma quello",
+      "Normalizzare lo scetticismo"
+    ],
+    "good_hook_patterns": [
+      "Non è [categoria sbagliata]. È [categoria corretta].",
+      "Hai ragione a essere [emozione/dubbio].",
+      "Prima [azione mentale]. Poi [azione commerciale].",
+      "La differenza non è nello slogan. È nella [tecnologia/meccanismo].",
+      "Non promette [hype]. Promette [comportamento realistico]."
+    ],
+    "caption_structure": {
+      "line_1": "Hook o tensione principale, leggibile prima del 'altro...'.",
+      "line_2_3": "Normalizzazione del dubbio o contesto umano.",
+      "middle": "Spiegazione semplice, con 1-3 concetti massimi.",
+      "compliance_line_if_needed": "Ricordare che si parla di supporto nutraceutico, non di terapia medica.",
+      "closing": "CTA leggera: salva, commenta, segui, condividi."
+    },
+    "sentence_style": [
+      "Frasi brevi nei visual",
+      "Periodi medio-brevi nelle caption",
+      "Punto fermo più di punto esclamativo",
+      "Domande sì, ma non troppe",
+      "Nessun tono da vendita aggressiva"
+    ],
+    "words_to_prioritize": [
+      "supporto",
+      "equilibrio",
+      "quotidiano",
+      "graduale",
+      "nutraceutica",
+      "ricerca",
+      "stabilizzato",
+      "capsule gastroresistenti",
+      "tecnologia patentata",
+      "benessere",
+      "costanza",
+      "spiegato bene"
+    ],
+    "words_to_avoid": [
+      "cura",
+      "guarisce",
+      "tratta",
+      "previene",
+      "elimina",
+      "risolve",
+      "miracolo",
+      "detox",
+      "shock",
+      "potente",
+      "incredibile",
+      "segreto",
+      "garantito",
+      "subito",
+      "rivoluzionario"
+    ]
+  },
+  "claim_and_compliance_rules": {
+    "core_rule": "Non usare claim terapeutici. Non diagnosticare. Non promettere risultati rapidi. Non suggerire che BYO3 sostituisca farmaci, trattamenti o consulti medici.",
+    "approved_general_claim_style": [
+      "Supporta il benessere quotidiano",
+      "Favorisce l'equilibrio",
+      "Contribuisce a una routine di benessere",
+      "Aiuta il corpo con un supporto graduale",
+      "Pensato per accompagnare, non per sostituire"
+    ],
+    "approved_product_claims_reference": {
+      "tonico": [
+        "Supporto del tono fisico e mentale",
+        "Azione antiossidante",
+        "Supporto del benessere generale"
+      ],
+      "donna": [
+        "Supporto del tono fisico e mentale",
+        "Aiuta l'equilibrio ormonale femminile",
+        "Supporto antiossidante"
+      ],
+      "uomo": [
+        "Ottimizzazione di energia e resistenza",
+        "Aiuta l'attività sessuale",
+        "Supporto alla salute della prostata"
+      ],
+      "probiotic": [
+        "Aiuta il microbiota",
+        "Favorisce il transito intestinale",
+        "Supporta il benessere intestinale"
+      ],
+      "artiplus": [
+        "Supporto della mobilità articolare",
+        "Azione antinfiammatoria naturale",
+        "Supporto al benessere articolare"
+      ]
+    },
+    "mandatory_caveats": [
+      "Se un contenuto tocca farmaci, patologie, gravidanza o condizioni specifiche, invitare a consultare medico o farmacista.",
+      "Separare sempre ozonoterapia medicale e integratore in capsule.",
+      "Non trasferire ai prodotti BYO3 benefici clinici della terapia con ozono.",
+      "Per contenuti più medici, valutare il canale OzonoSalute o una revisione medico-legale."
+    ],
+    "unsafe_examples": [
+      "Elimina l'infiammazione",
+      "Cura il microbiota",
+      "Risolve la stanchezza cronica",
+      "Previene problemi articolari",
+      "Ti fa tornare come prima in 7 giorni",
+      "Sostituisce antinfiammatori o trattamenti"
+    ],
+    "safe_rewrites": {
+      "Elimina l'infiammazione": "Supporta l'equilibrio del corpo con un'azione antiossidante e un approccio graduale.",
+      "Cura il microbiota": "Aiuta il microbiota e favorisce il benessere intestinale nella routine quotidiana.",
+      "Risolve la stanchezza cronica": "Supporta il tono fisico e mentale nei periodi in cui il corpo chiede più attenzione.",
+      "Previene problemi articolari": "Supporta la mobilità articolare e il benessere delle articolazioni nel tempo."
+    }
+  },
+  "first_week_content_direction": {
+    "objective": "Creare una prima griglia autorevole, chiara e riconoscibile, senza mostrare subito i flaconi come focus principale e senza vendere.",
+    "recommended_mix": "3 carousel educativi + 2 single post editoriali",
+    "posts": [
+      {
+        "post_number": 1,
+        "format": "carousel",
+        "title": "Ozono in capsule. Non ozonoterapia.",
+        "pillar": "educa",
+        "goal": "Chiarire subito la differenza tra trattamento medico e tecnologia nutraceutica BYO3.",
+        "visual_direction": "Warm white con micro-texture blu, titolo grande, piccolo diagramma molecolare, pannelli leggeri.",
+        "slide_sequence": [
+          "Ozono in capsule. Non ozonoterapia.",
+          "Quando senti 'ozono', è normale pensare a un trattamento medico.",
+          "BYO3 parla invece di tecnologia nutraceutica.",
+          "Olio di girasole ozonizzato e stabilizzato.",
+          "Capsule gastroresistenti per proteggere il contenuto.",
+          "Prima capire. Poi scegliere."
+        ]
+      },
+      {
+        "post_number": 2,
+        "format": "single_image_post",
+        "title": "Hai ragione a essere scettico.",
+        "pillar": "umanizza",
+        "goal": "Validare lo scetticismo del pubblico verso gli integratori e posizionare BYO3 come brand onesto.",
+        "visual_direction": "Post tipografico bold, fondo warm white o charcoal, logo piccolo, nessuna immagine prodotto.",
+        "caption_angle": "Troppi integratori promettono troppo. BYO3 parte da una cosa diversa: spiegare bene la tecnologia, i limiti e la logica della costanza."
+      },
+      {
+        "post_number": 3,
+        "format": "carousel",
+        "title": "Stress ossidativo: non si vede, ma si sente.",
+        "pillar": "educa",
+        "goal": "Introdurre un concetto scientifico rilevante in modo accessibile e non allarmistico.",
+        "visual_direction": "Lifestyle luminoso, morning routine, aria, luce, testo su pannelli sottili. Evitare tono diagnostico.",
+        "slide_sequence": [
+          "Stress ossidativo: non si vede, ma si sente.",
+          "Non è una diagnosi da social. È un concetto biologico da capire.",
+          "Il corpo vive ogni giorno tra stress, recupero ed equilibrio.",
+          "Un supporto antiossidante può aiutare dentro una routine più ampia.",
+          "La chiave non è l'urto. È la costanza.",
+          "Salva questo post se vuoi capire meglio l'ozono in capsule."
+        ]
+      },
+      {
+        "post_number": 4,
+        "format": "single_image_post",
+        "title": "Non promette miracoli. Promette costanza.",
+        "pillar": "differenzia",
+        "goal": "Creare una frase manifesto memorabile contro il linguaggio hype del settore integratori.",
+        "visual_direction": "Quote card premium, deep navy o warm white, tipografia editoriale, molto vuoto, logo BYO3 piccolo.",
+        "caption_angle": "Un integratore serio non dovrebbe farti credere che tutto cambi in pochi giorni. Il benessere quotidiano si costruisce con gesti ripetuti e aspettative realistiche."
+      },
+      {
+        "post_number": 5,
+        "format": "carousel",
+        "title": "Perché stabilizzare l'ozono?",
+        "pillar": "valida",
+        "goal": "Spiegare la tecnologia come differenziatore chiave, senza entrare in vendita diretta.",
+        "visual_direction": "Più Thorne: fondo blue-grey, goccia d'olio, capsule outline, micro-diagrammi, pannelli tecnici puliti.",
+        "slide_sequence": [
+          "Perché stabilizzare l'ozono?",
+          "Perché una tecnologia seria non vive solo nello slogan.",
+          "L'ozono viene veicolato in olio di girasole ozonizzato.",
+          "La stabilizzazione serve a proteggere e rendere utilizzabile il principio nella routine.",
+          "La capsula gastroresistente aggiunge un livello di protezione.",
+          "La differenza è nella tecnologia, non nella promessa."
+        ]
+      }
+    ]
+  },
+  "design_execution_guidelines": {
+    "feed_ratio": {
+      "light_editorial_posts": "60%",
+      "blue_science_posts": "25%",
+      "dark_premium_posts": "15%"
+    },
+    "slide_copy_limits": {
+      "cover_slide": "Massimo 8-12 parole",
+      "explanation_slide": "Massimo 25-35 parole",
+      "technical_slide": "Massimo 3 punti brevi",
+      "final_slide": "Una frase + CTA leggera"
+    },
+    "logo_rule": "Logo BYO3 piccolo e discreto. Non creare un lockup pesante identico su tutte le slide.",
+    "image_rule": "Non mostrare subito i flaconi come protagonisti nella prima fase. Usare capsule, texture, luce, olio, molecole e lifestyle adulto.",
+    "grid_rule": "Ogni post deve essere bello da solo ma coerente in griglia: alternanza di toni chiari, blue-grey e un massimo di un post scuro ogni 5-6 pubblicazioni."
+  },
+  "engagement_strategy": {
+    "primary_actions_to_drive": [
+      "Salvataggi",
+      "Commenti educativi",
+      "Condivisioni con persone scettiche sugli integratori",
+      "Follow per seguire la serie sull'ozono in capsule"
+    ],
+    "question_prompts": [
+      "Quando senti 'ozono in capsule', qual è la prima domanda che ti viene?",
+      "Hai mai evitato un integratore perché prometteva troppo?",
+      "Preferisci capire la tecnologia o vedere subito il prodotto?",
+      "Vuoi un post più tecnico sulla stabilizzazione dell'ozono?"
+    ],
+    "cta_style": "CTA leggere, non commerciali. Invitare a salvare, commentare, seguire, chiedere chiarimenti. Evitare compra ora, scopri l'offerta, ultimi pezzi o urgenza artificiale."
+  },
+  "content_do_and_dont": {
+    "do": [
+      "Educare prima di vendere",
+      "Normalizzare lo scetticismo",
+      "Usare copy diretto e adulto",
+      "Spiegare la differenza tra ozonoterapia e nutraceutica",
+      "Rendere visibile la tecnologia senza essere troppo tecnici",
+      "Costruire una serie riconoscibile",
+      "Essere prudenti nei claim",
+      "Usare il logo BYO3 in modo discreto"
+    ],
+    "dont": [
+      "Diagnosticare sintomi dal post",
+      "Usare paura come leva",
+      "Promettere risultati rapidi",
+      "Copiare i carousel reference in modo identico",
+      "Mostrare sempre il prodotto come hero",
+      "Usare linguaggio da detox, biohacking o miracolo",
+      "Confondere integratore e terapia medica",
+      "Creare contenuti troppo scuri o troppo clinic-coded"
+    ]
+  },
+  "example_caption_templates": {
+    "educational_caption": "Quando si parla di ozono, la confusione è normale.\n\nBYO3 non parla di ozonoterapia medica, ma di una tecnologia nutraceutica: olio di girasole ozonizzato e stabilizzato in capsule gastroresistenti.\n\nNon è una promessa rapida. È un supporto quotidiano da capire bene prima di scegliere.\n\nSalva questo post se vuoi ricordare la differenza.",
+    "skepticism_caption": "Se diffidi degli integratori, non hai torto.\n\nIl settore ha promesso troppo per troppo tempo: risultati immediati, trasformazioni lampo, soluzioni valide per tutti.\n\nBYO3 parte da un presupposto diverso: spiegare la tecnologia, rispettare i tempi del corpo e non vendere miracoli.\n\nPrima capire. Poi scegliere.",
+    "technology_caption": "Non basta dire ozono. Bisogna spiegare come viene portato dentro una routine quotidiana.\n\nLa tecnologia BYO3 parte da olio di girasole ozonizzato e stabilizzato, inserito in capsule gastroresistenti.\n\nIl punto non è creare una promessa più forte. È costruire un supporto più serio."
+  },
+  "quality_control_checklist": {
+    "before_posting": [
+      "Il visual ha una sola idea principale?",
+      "La prima slide è chiara anche senza caption?",
+      "Il claim è conforme e non terapeutico?",
+      "La caption educa invece di vendere?",
+      "Il tono è adulto e non hype?",
+      "Il design sembra BYO3 e non una copia dell'altro brand?",
+      "Il logo è presente ma discreto?",
+      "Il contenuto invita a salvare/commentare/seguire senza spingere all'acquisto?",
+      "La differenza tra ozonoterapia e integratore è rispettata?",
+      "Il post contribuisce alla serie educativa del feed?"
+    ]
+  },
+  "future_content_expansion": {
+    "week_2_direction": "Iniziare a trasformare i migliori temi in reels educativi brevi e introdurre gradualmente i prodotti specifici, senza passare subito alla vendita aggressiva.",
+    "product_specific_sequence": [
+      "Tonico: tono fisico e mentale, energia graduale, supporto antiossidante",
+      "Probiotic: microbiota, transito intestinale, routine digestiva",
+      "Donna: equilibrio ormonale femminile con linguaggio adulto e non tabù",
+      "Uomo: vitalità maschile, energia, attività sessuale e salute prostatica con serietà",
+      "Artiplus: mobilità, articolazioni, libertà di movimento e supporto naturale"
+    ],
+    "series_ideas": [
+      "Ozono in capsule, spiegato bene",
+      "Non tutti gli integratori sono uguali",
+      "Parole da capire: stress ossidativo, microbiota, gastroresistente",
+      "Miti e realtà sull'ozono",
+      "Costanza: il principio meno sexy e più importante del benessere"
+    ]
+  }
+}

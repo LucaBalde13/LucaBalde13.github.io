@@ -1,0 +1,250 @@
+{
+  "pageIntent": {
+    "type": "landing",
+    "confidence": 0.29,
+    "path": "/",
+    "title": "Home - Byo3",
+    "description": "",
+    "signals": [
+      {
+        "kind": "dom",
+        "type": "legal",
+        "weight": 0.4
+      },
+      {
+        "kind": "url",
+        "type": "landing",
+        "weight": 0.45,
+        "detail": "root-path"
+      }
+    ],
+    "alternates": [
+      {
+        "type": "legal",
+        "score": 0.4
+      }
+    ],
+    "needsSmart": true
+  },
+  "sectionRoles": {
+    "sections": [
+      {
+        "index": 0,
+        "tag": "header",
+        "role": "nav",
+        "subrole": null,
+        "confidence": 0.4,
+        "heading": null,
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "w": 1280,
+          "h": 133
+        },
+        "buttonCount": 20,
+        "cardCount": 56,
+        "slots": {
+          "ctaCount": 20,
+          "lede": "Ozono Salute\nNaturfarma\n4WomanHealth\nRicerca e innovazione\nOzonoterapia\nProdotti\nConsigli e Utilizzo\nNews\nParla con l’esperto"
+        },
+        "needsSmart": true
+      },
+      {
+        "index": 1,
+        "tag": "nav",
+        "role": "nav",
+        "subrole": null,
+        "confidence": 0.9,
+        "heading": null,
+        "bounds": {
+          "x": 196,
+          "y": 76,
+          "w": 688.375,
+          "h": 46
+        },
+        "buttonCount": 0,
+        "cardCount": 12,
+        "slots": {
+          "lede": "Ricerca e innovazione\nOzonoterapia\nProdotti\nConsigli e Utilizzo\nNews\nParla con l’esperto"
+        },
+        "needsSmart": false
+      },
+      {
+        "index": 2,
+        "tag": "nav",
+        "role": "nav",
+        "subrole": null,
+        "confidence": 0.9,
+        "heading": null,
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "buttonCount": 0,
+        "cardCount": 12,
+        "slots": {
+          "lede": "Ricerca e innovazione\nOzonoterapia\nProdotti\nConsigli e Utilizzo\nNews\nParla con l’esperto"
+        },
+        "needsSmart": false
+      },
+      {
+        "index": 3,
+        "tag": "nav",
+        "role": "nav",
+        "subrole": null,
+        "confidence": 0.9,
+        "heading": null,
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "buttonCount": 0,
+        "cardCount": 12,
+        "slots": {
+          "lede": "Ricerca e innovazione\nOzonoterapia\nProdotti\nConsigli e Utilizzo\nNews\nParla con l’esperto"
+        },
+        "needsSmart": false
+      },
+      {
+        "index": 4,
+        "tag": "nav",
+        "role": "nav",
+        "subrole": null,
+        "confidence": 0.9,
+        "heading": null,
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "buttonCount": 0,
+        "cardCount": 12,
+        "slots": {
+          "lede": "Ricerca e innovazione\nOzonoterapia\nProdotti\nConsigli e Utilizzo\nNews\nParla con l’esperto"
+        },
+        "needsSmart": false
+      },
+      {
+        "index": 5,
+        "tag": "footer",
+        "role": "footer",
+        "subrole": null,
+        "confidence": 0.95,
+        "heading": null,
+        "bounds": {
+          "x": 0,
+          "y": 3631.40625,
+          "w": 1280,
+          "h": 541.46875
+        },
+        "buttonCount": 0,
+        "cardCount": 42,
+        "slots": {
+          "lede": "Byo3 Italia S.r.l.\nP.Iva 02775260223"
+        },
+        "needsSmart": false
+      },
+      {
+        "index": 6,
+        "tag": "nav",
+        "role": "nav",
+        "subrole": null,
+        "confidence": 0.9,
+        "heading": null,
+        "bounds": {
+          "x": 489.59375,
+          "y": 3833,
+          "w": 190.390625,
+          "h": 176
+        },
+        "buttonCount": 0,
+        "cardCount": 12,
+        "slots": {
+          "lede": "Ricerca e innovazione\nOzonoterapia\nProdotti\nConsigli e Utilizzo\nNews\nParla con l’esperto"
+        },
+        "needsSmart": false
+      },
+      {
+        "index": 7,
+        "tag": "nav",
+        "role": "nav",
+        "subrole": null,
+        "confidence": 0.9,
+        "heading": null,
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "buttonCount": 0,
+        "cardCount": 12,
+        "slots": {
+          "lede": "Ricerca e innovazione\nOzonoterapia\nProdotti\nConsigli e Utilizzo\nNews\nParla con l’esperto"
+        },
+        "needsSmart": false
+      },
+      {
+        "index": 8,
+        "tag": "nav",
+        "role": "nav",
+        "subrole": null,
+        "confidence": 0.9,
+        "heading": null,
+        "bounds": {
+          "x": 719.984375,
+          "y": 3833,
+          "w": 190.390625,
+          "h": 83
+        },
+        "buttonCount": 0,
+        "cardCount": 6,
+        "slots": {
+          "lede": "Privacy Policy\nCookie Policy\nTermini e Condizioni"
+        },
+        "needsSmart": false
+      },
+      {
+        "index": 9,
+        "tag": "nav",
+        "role": "nav",
+        "subrole": null,
+        "confidence": 0.9,
+        "heading": null,
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "buttonCount": 0,
+        "cardCount": 6,
+        "slots": {
+          "lede": "Privacy Policy\nCookie Policy\nTermini e Condizioni"
+        },
+        "needsSmart": false
+      }
+    ],
+    "counts": {
+      "nav": 9,
+      "footer": 1
+    },
+    "readingOrder": [
+      "nav",
+      "nav",
+      "nav",
+      "nav",
+      "nav",
+      "nav",
+      "nav",
+      "footer",
+      "nav",
+      "nav"
+    ]
+  }
+}

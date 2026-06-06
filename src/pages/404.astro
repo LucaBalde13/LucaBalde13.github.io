@@ -1,0 +1,10 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { loadLegacyPage } from "../data/legacy-pages.js";
+
+const page = loadLegacyPage("404.html");
+---
+
+<BaseLayout {...page}>
+  <Fragment set:html={page.body} />
+</BaseLayout>

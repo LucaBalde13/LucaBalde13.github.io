@@ -1,0 +1,959 @@
+{
+  "colors": {
+    "all": [
+      {
+        "hex": "#212121",
+        "rgb": {
+          "r": 33,
+          "g": 33,
+          "b": 33,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 13
+        },
+        "count": 726,
+        "contexts": [
+          "text",
+          "border"
+        ]
+      },
+      {
+        "hex": "#000000",
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "count": 162,
+        "contexts": [
+          "text",
+          "border",
+          "background"
+        ]
+      },
+      {
+        "hex": "#33373d",
+        "rgb": {
+          "r": 51,
+          "g": 55,
+          "b": 61,
+          "a": 1
+        },
+        "hsl": {
+          "h": 216,
+          "s": 9,
+          "l": 22
+        },
+        "count": 100,
+        "contexts": [
+          "text",
+          "border"
+        ]
+      },
+      {
+        "hex": "#cc3366",
+        "rgb": {
+          "r": 204,
+          "g": 51,
+          "b": 102,
+          "a": 1
+        },
+        "hsl": {
+          "h": 340,
+          "s": 60,
+          "l": 50
+        },
+        "count": 58,
+        "contexts": [
+          "text",
+          "border"
+        ]
+      },
+      {
+        "hex": "#ffffff",
+        "rgb": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 100
+        },
+        "count": 56,
+        "contexts": [
+          "background",
+          "text",
+          "border"
+        ]
+      },
+      {
+        "hex": "#69727d",
+        "rgb": {
+          "r": 105,
+          "g": 114,
+          "b": 125,
+          "a": 1
+        },
+        "hsl": {
+          "h": 213,
+          "s": 9,
+          "l": 45
+        },
+        "count": 27,
+        "contexts": [
+          "border",
+          "text"
+        ]
+      },
+      {
+        "hex": "#7a7a7a",
+        "rgb": {
+          "r": 122,
+          "g": 122,
+          "b": 122,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 48
+        },
+        "count": 26,
+        "contexts": [
+          "text",
+          "border"
+        ]
+      },
+      {
+        "hex": "#00588a",
+        "rgb": {
+          "r": 0,
+          "g": 88,
+          "b": 138,
+          "a": 1
+        },
+        "hsl": {
+          "h": 202,
+          "s": 100,
+          "l": 27
+        },
+        "count": 22,
+        "contexts": [
+          "text",
+          "border",
+          "background"
+        ]
+      },
+      {
+        "hex": "#e8a732",
+        "rgb": {
+          "r": 232,
+          "g": 167,
+          "b": 50,
+          "a": 1
+        },
+        "hsl": {
+          "h": 39,
+          "s": 80,
+          "l": 55
+        },
+        "count": 20,
+        "contexts": [
+          "text",
+          "border"
+        ]
+      },
+      {
+        "hex": "#5cbcd3",
+        "rgb": {
+          "r": 92,
+          "g": 188,
+          "b": 211,
+          "a": 1
+        },
+        "hsl": {
+          "h": 192,
+          "s": 57,
+          "l": 59
+        },
+        "count": 20,
+        "contexts": [
+          "text",
+          "border"
+        ]
+      },
+      {
+        "hex": "#d65e53",
+        "rgb": {
+          "r": 214,
+          "g": 94,
+          "b": 83,
+          "a": 1
+        },
+        "hsl": {
+          "h": 5,
+          "s": 62,
+          "l": 58
+        },
+        "count": 12,
+        "contexts": [
+          "text",
+          "border"
+        ]
+      },
+      {
+        "hex": "#f5f5f5",
+        "rgb": {
+          "r": 245,
+          "g": 245,
+          "b": 245,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 96
+        },
+        "count": 4,
+        "contexts": [
+          "text",
+          "border"
+        ]
+      },
+      {
+        "hex": "#2d2d2d",
+        "rgb": {
+          "r": 45,
+          "g": 45,
+          "b": 45,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 18
+        },
+        "count": 1,
+        "contexts": [
+          "background"
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "role": "nav",
+      "tag": "header",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 1280,
+        "h": 133
+      },
+      "heading": null,
+      "buttonCount": 20,
+      "cardCount": 56,
+      "className": "elementor elementor-85 elementor-location-header"
+    },
+    {
+      "role": "nav",
+      "tag": "nav",
+      "bounds": {
+        "x": 196,
+        "y": 76,
+        "w": 688.375,
+        "h": 46
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 12,
+      "className": "elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none"
+    },
+    {
+      "role": "nav",
+      "tag": "nav",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 12,
+      "className": "elementor-nav-menu--dropdown elementor-nav-menu__container"
+    },
+    {
+      "role": "nav",
+      "tag": "nav",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 12,
+      "className": "elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none"
+    },
+    {
+      "role": "nav",
+      "tag": "nav",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 12,
+      "className": "elementor-nav-menu--dropdown elementor-nav-menu__container"
+    },
+    {
+      "role": "footer",
+      "tag": "footer",
+      "bounds": {
+        "x": 0,
+        "y": 3631.40625,
+        "w": 1280,
+        "h": 541.46875
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 42,
+      "className": "elementor elementor-233 elementor-location-footer"
+    },
+    {
+      "role": "nav",
+      "tag": "nav",
+      "bounds": {
+        "x": 489.59375,
+        "y": 3833,
+        "w": 190.390625,
+        "h": 176
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 12,
+      "className": "elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none"
+    },
+    {
+      "role": "nav",
+      "tag": "nav",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 12,
+      "className": "elementor-nav-menu--dropdown elementor-nav-menu__container"
+    },
+    {
+      "role": "nav",
+      "tag": "nav",
+      "bounds": {
+        "x": 719.984375,
+        "y": 3833,
+        "w": 190.390625,
+        "h": 83
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 6,
+      "className": "elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none"
+    },
+    {
+      "role": "nav",
+      "tag": "nav",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 6,
+      "className": "elementor-nav-menu--dropdown elementor-nav-menu__container"
+    }
+  ],
+  "componentClusters": [
+    {
+      "kind": "button",
+      "structuralHash": "div>a",
+      "instanceCount": 14,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(33, 33, 33)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(33, 33, 33)",
+            "fontSize": "16px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 14
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "a>span",
+      "instanceCount": 14,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(94, 186, 201, 0)",
+            "color": "rgb(33, 33, 33)",
+            "padding": "0px 20px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px 1px 0px 0px solid rgb(33, 33, 33)",
+            "fontSize": "14px",
+            "fontWeight": "300"
+          },
+          "instanceCount": 9
+        },
+        {
+          "css": {
+            "background": "rgba(97, 206, 112, 0)",
+            "color": "rgb(232, 167, 50)",
+            "padding": "12px 24px 12px 24px",
+            "borderRadius": "100px",
+            "border": "2px solid rgb(232, 167, 50)",
+            "fontSize": "15px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 3
+        },
+        {
+          "css": {
+            "background": "rgba(97, 206, 112, 0)",
+            "color": "rgb(92, 188, 211)",
+            "padding": "12px 24px 12px 24px",
+            "borderRadius": "100px",
+            "border": "2px solid rgb(92, 188, 211)",
+            "fontSize": "15px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 2
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "span>span",
+      "instanceCount": 15,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(33, 33, 33)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(33, 33, 33)",
+            "fontSize": "14px",
+            "fontWeight": "300"
+          },
+          "instanceCount": 10
+        },
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(232, 167, 50)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(232, 167, 50)",
+            "fontSize": "15px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 3
+        },
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(92, 188, 211)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(92, 188, 211)",
+            "fontSize": "15px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 2
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "span",
+      "instanceCount": 14,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(33, 33, 33)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(33, 33, 33)",
+            "fontSize": "14px",
+            "fontWeight": "300"
+          },
+          "instanceCount": 9
+        },
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(232, 167, 50)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(232, 167, 50)",
+            "fontSize": "15px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 3
+        },
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(92, 188, 211)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(92, 188, 211)",
+            "fontSize": "15px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 2
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "div",
+      "instanceCount": 1,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(33, 33, 33)",
+            "padding": "12px 24px 12px 24px",
+            "borderRadius": "100px",
+            "border": "1px solid rgb(33, 33, 33)",
+            "fontSize": "15px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 1
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "div>svg",
+      "instanceCount": 2,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(122, 122, 122)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(122, 122, 122)",
+            "fontSize": "36px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 2
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "div>form",
+      "instanceCount": 1,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(33, 33, 33)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(33, 33, 33)",
+            "fontSize": "16px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 1
+        }
+      ]
+    },
+    {
+      "kind": "input",
+      "structuralHash": "input",
+      "instanceCount": 1,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(33, 33, 33)",
+            "padding": "8px 16px 8px 16px",
+            "borderRadius": "0px",
+            "border": "0px solid rgb(105, 114, 125)",
+            "fontSize": "16px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 1
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "div>button",
+      "instanceCount": 1,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(33, 33, 33)",
+            "padding": "0px 30px 0px 30px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(33, 33, 33)",
+            "fontSize": "16px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 1
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "button>span",
+      "instanceCount": 1,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(70, 127, 247, 0)",
+            "color": "rgb(57, 57, 57)",
+            "padding": "1.76562px 8.84375px 1.76562px 8.84375px",
+            "borderRadius": "50px",
+            "border": "0px none rgba(70, 127, 247, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 1
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "span>svg>span",
+      "instanceCount": 1,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(57, 57, 57)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(57, 57, 57)",
+            "fontSize": "16px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 1
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "a",
+      "instanceCount": 2,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(56, 56, 56)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(56, 56, 56)",
+            "fontSize": "14px",
+            "fontWeight": "300"
+          },
+          "instanceCount": 2
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "button",
+      "instanceCount": 3,
+      "variants": [
+        {
+          "css": {
+            "background": "rgb(45, 45, 45)",
+            "color": "rgb(255, 255, 255)",
+            "padding": "8px 32px 8px 32px",
+            "borderRadius": "64px",
+            "border": "0px none rgb(255, 255, 255)",
+            "fontSize": "14px",
+            "fontWeight": "700"
+          },
+          "instanceCount": 3
+        }
+      ]
+    }
+  ],
+  "accessibility": {
+    "remediation": []
+  },
+  "cssHealth": {
+    "sheets": [
+      {
+        "url": "https://byo3.it/wp-content/uploads/elementor/css/post-17.css?ver=1779890850",
+        "totalBytes": 64501,
+        "usedBytes": 40720,
+        "unusedBytes": 23781,
+        "unusedPercent": 37
+      },
+      {
+        "url": "https://byo3.it/wp-content/uploads/elementor/css/custom-pro-widget-nav-menu.min.css?ver=1779888948",
+        "totalBytes": 27319,
+        "usedBytes": 3561,
+        "unusedBytes": 23758,
+        "unusedPercent": 87
+      },
+      {
+        "url": "https://byo3.it/wp-content/uploads/elementor/css/post-13.css?ver=1779888948",
+        "totalBytes": 1427,
+        "usedBytes": 607,
+        "unusedBytes": 820,
+        "unusedPercent": 57
+      },
+      {
+        "url": "wp-emoji-styles-inline-css",
+        "totalBytes": 340,
+        "usedBytes": 0,
+        "unusedBytes": 340,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://byo3.it/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1756239033",
+        "totalBytes": 22302,
+        "usedBytes": 0,
+        "unusedBytes": 22302,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://byo3.it/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.31.5",
+        "totalBytes": 254,
+        "usedBytes": 160,
+        "unusedBytes": 94,
+        "unusedPercent": 37
+      },
+      {
+        "url": "https://byo3.it/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css?ver=3.31.3",
+        "totalBytes": 6798,
+        "usedBytes": 505,
+        "unusedBytes": 6293,
+        "unusedPercent": 93
+      },
+      {
+        "url": "global-styles-inline-css",
+        "totalBytes": 11037,
+        "usedBytes": 3255,
+        "unusedBytes": 7782,
+        "unusedPercent": 71
+      },
+      {
+        "url": "https://byo3.it/wp-content/uploads/elementor/css/custom-apple-webkit.min.css?ver=1779888948",
+        "totalBytes": 7025,
+        "usedBytes": 0,
+        "unusedBytes": 7025,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://byo3.it/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1779888948",
+        "totalBytes": 10461,
+        "usedBytes": 1832,
+        "unusedBytes": 8629,
+        "unusedPercent": 82
+      },
+      {
+        "url": "https://byo3.it/wp-content/uploads/elementor/css/post-233.css?ver=1779888949",
+        "totalBytes": 26584,
+        "usedBytes": 12368,
+        "unusedBytes": 14216,
+        "unusedPercent": 53
+      },
+      {
+        "url": "https://byo3.it/",
+        "totalBytes": 722,
+        "usedBytes": 431,
+        "unusedBytes": 291,
+        "unusedPercent": 40
+      },
+      {
+        "url": "https://byo3.it/wp-content/uploads/elementor/css/post-85.css?ver=1779888949",
+        "totalBytes": 26080,
+        "usedBytes": 11158,
+        "unusedBytes": 14922,
+        "unusedPercent": 57
+      },
+      {
+        "url": "https://byo3.it/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4",
+        "totalBytes": 5456,
+        "usedBytes": 2019,
+        "unusedBytes": 3437,
+        "unusedPercent": 63
+      },
+      {
+        "url": "https://byo3.it/wp-content/plugins/elementor-pro/assets/css/widget-nested-carousel.min.css?ver=3.31.3",
+        "totalBytes": 9691,
+        "usedBytes": 3773,
+        "unusedBytes": 5918,
+        "unusedPercent": 61
+      },
+      {
+        "url": "wp-img-auto-sizes-contain-inline-css",
+        "totalBytes": 135,
+        "usedBytes": 0,
+        "unusedBytes": 135,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://byo3.it/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.31.5",
+        "totalBytes": 5150,
+        "usedBytes": 1515,
+        "unusedBytes": 3635,
+        "unusedPercent": 71
+      },
+      {
+        "url": "https://byo3.it/wp-content/uploads/elementor/css/custom-pro-widget-slides.min.css?ver=1779888948",
+        "totalBytes": 2342,
+        "usedBytes": 1270,
+        "unusedBytes": 1072,
+        "unusedPercent": 46
+      },
+      {
+        "url": "https://byo3.it/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.3.0",
+        "totalBytes": 7746,
+        "usedBytes": 0,
+        "unusedBytes": 7746,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://byo3.it/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1779888948",
+        "totalBytes": 53687,
+        "usedBytes": 10773,
+        "unusedBytes": 42914,
+        "unusedPercent": 80
+      },
+      {
+        "url": "https://byo3.it/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.31.5",
+        "totalBytes": 5486,
+        "usedBytes": 1376,
+        "unusedBytes": 4110,
+        "unusedPercent": 75
+      },
+      {
+        "url": "https://byo3.it/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.4",
+        "totalBytes": 5093,
+        "usedBytes": 139,
+        "unusedBytes": 4954,
+        "unusedPercent": 97
+      },
+      {
+        "url": "https://byo3.it/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.4",
+        "totalBytes": 7180,
+        "usedBytes": 0,
+        "unusedBytes": 7180,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://byo3.it/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5",
+        "totalBytes": 16471,
+        "usedBytes": 639,
+        "unusedBytes": 15832,
+        "unusedPercent": 96
+      },
+      {
+        "url": "https://byo3.it/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1756222029",
+        "totalBytes": 100566,
+        "usedBytes": 0,
+        "unusedBytes": 100566,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://byo3.it/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=3.31.5",
+        "totalBytes": 130,
+        "usedBytes": 34,
+        "unusedBytes": 96,
+        "unusedPercent": 74
+      },
+      {
+        "url": "https://byo3.it/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.31.5",
+        "totalBytes": 600,
+        "usedBytes": 129,
+        "unusedBytes": 471,
+        "unusedPercent": 79
+      },
+      {
+        "url": "https://byo3.it/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.31.5",
+        "totalBytes": 4298,
+        "usedBytes": 835,
+        "unusedBytes": 3463,
+        "unusedPercent": 81
+      },
+      {
+        "url": "https://byo3.it/",
+        "totalBytes": 153,
+        "usedBytes": 143,
+        "unusedBytes": 10,
+        "unusedPercent": 7
+      }
+    ],
+    "totalBytes": 429034,
+    "usedBytes": 97242,
+    "unusedBytes": 331792,
+    "unusedPercent": 77,
+    "importantCount": 114,
+    "duplicates": 4395,
+    "vendorPrefixes": {
+      "webkit": 36,
+      "moz": 17,
+      "ms": 5,
+      "o": 2
+    },
+    "keyframes": [],
+    "specificity": {
+      "max": [
+        1,
+        10,
+        24
+      ],
+      "average": [
+        0.01,
+        2.51,
+        0.3
+      ],
+      "count": 3035
+    },
+    "issues": [
+      "114 !important rules",
+      "4395 duplicate declarations",
+      "77% unused CSS"
+    ]
+  }
+}

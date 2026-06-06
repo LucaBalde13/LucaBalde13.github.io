@@ -1,0 +1,314 @@
+{
+  "profile_type": "ideal_customer_profile",
+  "brand": "BYO3",
+  "version": "1.1",
+  "last_updated": "2026-05-30",
+  "changelog": "v1.1 — Arricchiti i 5 sub-profili con gli angle confermati da bugiardini e schede prodotto: Tonico (caffeina/Guaranà, recupero sportivo), Donna (urogenitale/cistiti ricorrenti, umore/libido, sonno), Uomo (performance e recupero sportivo, andropausa, libido/erezione — fascia allargata), Probiotic (IBS e disbiosi post-antibiotica espliciti, gluten/lactose-free friendly), Artiplus (doppia persona osteoartrosi + sportivo, recupero post-infortunio). Nota allergene pesce in Artiplus.",
+  "language": "italiano",
+  "structure_note": "Un ICP ombrello rappresenta il cliente-tipo BYO3 trasversale. Sotto, 5 sub-profili agganciati a ciascun prodotto della linea Ozoilab (Tonico, Donna, Uomo, Probiotic, Artiplus). I sub-profili ereditano gli attributi dell'ombrello salvo dove esplicitamente sovrascritti.",
+
+  "umbrella_icp": {
+    "name": "Il consumatore consapevole italiano del benessere quotidiano",
+    "one_line_description": "Adulto/a italiano/a 35-65 anni, sensibile al proprio benessere, che cerca soluzioni nutraceutiche affidabili, italiane, con base scientifica, senza promesse miracolose.",
+
+    "demographics": {
+      "age_range": "35-65",
+      "primary_age_cluster": "40-58",
+      "gender_split": "Equilibrato sul brand, con sub-profili che virano (vedi sotto)",
+      "geography": "Italia, prevalenza centro-nord, con cluster urbani e di provincia di reddito medio-alto",
+      "income_bracket": "Reddito familiare medio-alto. Disposti a spendere di più per qualità e provenienza italiana.",
+      "education": "Diploma o laurea. Lettori, informati, fanno domande prima di comprare.",
+      "occupation_typology": "Professionisti, dirigenti, libere professioni, imprenditori, insegnanti, dipendenti qualificati, pensionati attivi"
+    },
+
+    "psychographics": {
+      "values": [
+        "Salute come investimento a lungo termine, non come emergenza",
+        "Qualità sopra quantità",
+        "Made in Italy, filiera trasparente",
+        "Scienza e ricerca come garanzia",
+        "Naturale ma non new-age",
+        "Costanza sopra estremismi"
+      ],
+
+      "lifestyle": "Cura il proprio benessere con regolarità. Fa attività fisica moderata. Mangia con attenzione senza essere ossessivo. Si informa prima di acquistare prodotti per la salute. Legge le etichette. Spesso ha già provato altri integratori.",
+
+      "media_diet": [
+        "Instagram (segue brand wellness, nutrizionisti, medici divulgatori)",
+        "Facebook (community, gruppi, dirette di esperti)",
+        "Podcast salute/benessere",
+        "Newsletter di nutrizionisti e medici",
+        "Articoli editoriali (Repubblica Salute, Corriere Salute, riviste di settore)",
+        "Farmacia di fiducia come fonte di consiglio"
+      ],
+
+      "frustrations_pain_points": [
+        "Diffidenza verso le promesse esagerate degli integratori",
+        "Mercato saturo di prodotti che si somigliano tutti",
+        "Difficoltà a distinguere prodotti seri da prodotti marketing-only",
+        "Stanchezza, calo di energia, recupero più lento con l'età",
+        "Sensazione di non sapere più cosa scegliere",
+        "Esperienze passate deludenti con integratori che 'non hanno fatto niente'"
+      ],
+
+      "desires": [
+        "Sentirsi bene ogni giorno, in modo sostenibile",
+        "Avere un brand di cui fidarsi",
+        "Capire come funziona davvero un prodotto, non solo cosa promette",
+        "Mantenere la propria autonomia e vitalità nel tempo",
+        "Una routine semplice, non un protocollo complicato"
+      ]
+    },
+
+    "buying_behavior": {
+      "research_pattern": "Cerca online prima di comprare. Legge recensioni, confronta ingredienti, guarda il sito ufficiale. Spesso chiede al farmacista o al medico di fiducia.",
+      "decision_drivers": [
+        "Qualità degli ingredienti (origine, dosaggi)",
+        "Brand italiano con storia",
+        "Trasparenza scientifica",
+        "Esperienza di altri utenti credibili (non influencer pagati evidenti)",
+        "Rapporto qualità-prezzo (premium accettato se giustificato)"
+      ],
+      "decision_barriers": [
+        "Scetticismo verso claim troppo forti",
+        "Prezzo alto senza giustificazione chiara",
+        "Mancanza di informazioni sul produttore",
+        "Linguaggio troppo medico o troppo da influencer",
+        "Sensazione di essere 'venduti' a invece che 'serviti'"
+      ],
+      "channel_preference": "Sito ufficiale del brand (alta fiducia), farmacia online di fiducia, raramente Amazon per prodotti salute (preferiscono brand-owned)"
+    },
+
+    "objections_to_overcome": [
+      "'Funzionano davvero gli integratori a base di ozono?'",
+      "'Non è una moda passeggera?'",
+      "'Il prezzo è alto, vale la pena?'",
+      "'Posso prenderlo se prendo già altri farmaci?'",
+      "'Quanto tempo prima di vedere risultati?'",
+      "'Cosa lo distingue da prodotti simili?'"
+    ],
+
+    "audience_language_patterns": {
+      "how_they_talk_about_their_needs": [
+        "Sono stanco/a, ma non malato/a",
+        "Vorrei avere più energia",
+        "Mi sento appesantito/a",
+        "Non recupero più come prima",
+        "Cerco qualcosa di naturale",
+        "Voglio prevenire, non curare",
+        "Ho già provato di tutto"
+      ],
+      "trigger_words_positive": [
+        "naturale",
+        "italiano",
+        "ricerca",
+        "graduale",
+        "equilibrio",
+        "supporto",
+        "quotidiano"
+      ],
+      "trigger_words_negative": [
+        "miracolo",
+        "dimagrante",
+        "subito",
+        "garantito",
+        "esplosivo",
+        "detox totale"
+      ]
+    },
+
+    "what_success_looks_like_for_them": "Dopo 4-8 settimane di assunzione regolare, sentire una differenza concreta ma non eclatante: più energia, meno gonfiore, sonno più profondo, articolazioni più sciolte, equilibrio ritrovato. Il prodotto diventa parte della routine, come la vitamina D in inverno."
+  },
+
+  "sub_profiles": {
+
+    "tonico": {
+      "product": "BYO3 Tonico",
+      "product_payoff": "Ozone for Power — Integratore alimentare, supporto del tono fisico e mentale",
+      "primary_buyer": "Adulto 35-55 attivo, vita piena, lavoro impegnativo, gestione famiglia, percepisce un calo di tono fisico e mentale soprattutto nei cambi di stagione o nei periodi di stress",
+      "demographics_overrides": {
+        "age_range": "35-55",
+        "gender_split": "Equilibrato"
+      },
+      "specific_pain_points": [
+        "Stanchezza che non passa col riposo",
+        "Difficoltà di concentrazione",
+        "Calo di energia pomeridiana",
+        "Recupero rallentato dopo periodi intensi",
+        "Senso di pesantezza generale"
+      ],
+      "specific_desires": [
+        "Sentirsi 'sul pezzo' nelle giornate lunghe",
+        "Tornare a riconoscersi in termini di vitalità",
+        "Un supporto antiossidante senza eccitanti"
+      ],
+      "moments_of_need": [
+        "Cambi di stagione (autunno, primavera)",
+        "Rientri al lavoro dopo le vacanze",
+        "Periodi di stress lavorativo intenso",
+        "Convalescenza post-influenza"
+      ],
+      "key_objection": "'Cos'ha in più rispetto a un buon multivitaminico?'",
+      "messaging_angle": "Tono fisico e mentale come una cosa sola. Antiossidante con base scientifica italiana. Costanza nelle settimane, non scossa istantanea.",
+      "ingredient_informed_notes": "Formula con Muira Puama, Damiana (adattogeno), Guaranà titolato 8% caffeina (componente energizzante reale, da segnalare a chi è sensibile alla caffeina), L-Glutatione ridotto SETRIA® (antiossidante/detossificante) e Taurina. Questo apre un angle 'recupero fisico dopo l'attività' oltre a quello anti-stanchezza, e un angle 'energia reale ma non eccitante da bomba'. La presenza di caffeina suggerisce assunzione preferibilmente al mattino e cautela serale.",
+      "secondary_angle_sport": "Sportivo amatoriale 35-50 che cerca supporto al recupero e all'ossigenazione tissutale dopo l'allenamento."
+    },
+
+    "donna": {
+      "product": "BYO3 Donna",
+      "product_payoff": "Ozone for Her Vitality — Supporto del tono fisico e mentale, aiuta l'equilibrio ormonale femminile",
+      "primary_buyer": "Donna 40-60 in fase di transizione ormonale (perimenopausa, menopausa, o ciclicità intensa), che cerca un supporto naturale senza sostituirsi a terapie mediche",
+      "demographics_overrides": {
+        "age_range": "40-60",
+        "gender_split": "100% donne"
+      },
+      "specific_pain_points": [
+        "Vampate, sbalzi d'umore, irritabilità",
+        "Senso di non riconoscersi più",
+        "Stanchezza ormonale e affaticamento mentale",
+        "Sonno disturbato",
+        "Cistiti e infezioni urinarie/vaginali ricorrenti",
+        "Calo del desiderio e del tono dell'umore (ansia, insonnia)",
+        "Frustrazione per la mancanza di alternative naturali credibili"
+      ],
+      "specific_desires": [
+        "Affrontare la transizione con più equilibrio",
+        "Un alleato quotidiano, non un farmaco",
+        "Sentirsi ancora se stessa, nel corpo e nell'umore",
+        "Un sostegno anche al benessere uro-genitale",
+        "Informazione seria, non tabù"
+      ],
+      "moments_of_need": [
+        "Inizio dei primi sintomi premenopausa / sindrome premestruale intensa",
+        "Periodi di forte stress lavorativo-familiare",
+        "Episodi ricorrenti di cistite",
+        "Dopo aver letto un articolo o sentito una specialista parlarne",
+        "Su consiglio di amica/sorella/farmacista"
+      ],
+      "key_objection": "'Funziona davvero o è marketing per donne in menopausa?'",
+      "messaging_angle": "L'equilibrio ormonale è un percorso, non un interruttore. Supporto naturale dosato sulla fase della vita. Linguaggio non tabù, non infantilizzante.",
+      "ingredient_informed_notes": "Formula con Griffonia (precursore 5-HTP → umore), Maca e L-Arginina (tono/desiderio), Mirtillo rosso di palude/cranberry (benessere uro-genitale, contesto cistiti ricorrenti — uso interno), adattogeni Withania (ashwagandha), Schisandra, Cordyceps (energia, stress), Polline ed estratti per equilibrio endocrino. Questo amplia il sub-profilo oltre la sola menopausa: include il fronte umore/ansia/sonno e quello uro-genitale.",
+      "tone_caveat": "Mai linguaggio paternalistico, mai 'le donne over 50', mai 'a una certa età'. Donne adulte che meritano informazione adulta. Il tema cistiti/uro-genitale e libido si tratta con naturalezza e rispetto, mai con imbarazzo o ammiccamenti."
+    },
+
+    "uomo": {
+      "product": "BYO3 Uomo",
+      "product_payoff": "Ozone for His Vitality — Per ottimizzare energia e resistenza, aiuta l'attività sessuale e la salute della prostata",
+      "primary_buyer": "Uomo 40-65 attivo, conscio dei segnali del corpo che cambiano, interessato a mantenere energia, prestazioni fisiche, salute prostatica e vitalità sessuale senza rivolgersi subito a soluzioni farmaceutiche. Include sia il profilo 'prevenzione/benessere maschile' sia il profilo 'attivo/sportivo' che cerca recupero e resistenza.",
+      "demographics_overrides": {
+        "age_range": "38-65",
+        "gender_split": "100% uomini"
+      },
+      "specific_pain_points": [
+        "Calo di vitalità, energia e libido percepiti come 'inevitabili'",
+        "Preoccupazione silenziosa per la salute prostatica e delle vie urinarie",
+        "Resistenza al confronto medico su questi temi",
+        "Stanchezza cronica, recupero lento dopo sport o lavoro",
+        "Calo delle prestazioni fisiche e muscolari",
+        "Sensazione di 'non essere più quello di prima'"
+      ],
+      "specific_desires": [
+        "Mantenere vitalità, performance e recupero senza dipendenza da farmaci",
+        "Un supporto da prendere in autonomia, senza spiegazioni a nessuno",
+        "Sostegno a energia, resistenza e tono ormonale",
+        "Informazione concreta, non vergogna"
+      ],
+      "moments_of_need": [
+        "Primi segnali di calo verso i 45-50 (andropausa)",
+        "Bisogno di recupero fisico/mentale dopo lavoro o sport",
+        "Visita urologica di routine che apre il discorso",
+        "Conversazioni tra amici sui 'soliti problemi'",
+        "Dopo aver visto un contenuto online che li ha fatti riflettere"
+      ],
+      "key_objection": "'Mi serve davvero o sto solo invecchiando normalmente?'",
+      "messaging_angle": "Vitalità maschile come tema adulto, non da locker room. Energia, prestazioni e salute prostatica trattate con serietà e senza tabù. Linguaggio diretto, non goliardico.",
+      "ingredient_informed_notes": "Formula con L-Arginina, Ornitina, L-Citrullina (via dell'ossido nitrico → circolazione e performance), Tribulus + Maca + Zinco (libido ed equilibrio ormonale maschile), Cordyceps (energia/resistenza), Magnesio, Vitamine D3 e B12. Doppio binario: 'performance e recupero' (sportivo/attivo) e 'vitalità ormonale e prostatica' (prevenzione 45+).",
+      "secondary_angle_sport": "Uomo attivo/sportivo 38-55 interessato a resistenza, recupero muscolare e ossigenazione, non solo al tema prostata/libido.",
+      "tone_caveat": "Evitare tassativamente toni da spogliatoio, allusioni, doppi sensi. Il pubblico cerca serietà, non comicità maschile. Libido, erezione e prostata si nominano con misura e rispetto."
+    },
+
+    "probiotic": {
+      "product": "BYO3 Probiotic",
+      "product_payoff": "Ozonize Your Health — Aiuta il microbiota, favorisce il transito intestinale",
+      "primary_buyer": "Adulto/a 30-60 con problematiche intestinali ricorrenti (gonfiore, irregolarità, sensibilità alimentari) o consapevolezza dell'importanza del microbiota per il benessere generale",
+      "demographics_overrides": {
+        "age_range": "30-60",
+        "gender_split": "Skew leggero femminile (60/40), perché le donne sono più informate sul tema microbiota"
+      },
+      "specific_pain_points": [
+        "Gonfiore addominale ricorrente",
+        "Irregolarità intestinale e alterazioni dell'alvo",
+        "Sensazione di pesantezza dopo i pasti",
+        "Disbiosi dopo cicli di antibiotici",
+        "Sintomi tipo colon irritabile (uso interno: IBS)",
+        "Cicli di probiotici tradizionali con risultati incostanti",
+        "Confusione su cosa funziona davvero"
+      ],
+      "specific_desires": [
+        "Una pancia 'tranquilla' come stato di base",
+        "Energia che parte dall'intestino",
+        "Un prodotto da prendere quotidianamente senza pensieri"
+      ],
+      "moments_of_need": [
+        "Dopo cicli di antibiotici",
+        "Periodi di alimentazione irregolare (viaggi, festività)",
+        "Stress che si scarica sull'intestino",
+        "Dopo aver letto sull'asse intestino-cervello"
+      ],
+      "key_objection": "'Cos'ha di diverso dai probiotici classici che ho già provato?'",
+      "messaging_angle": "Microbiota come ecosistema, non come pillola d'emergenza. Approccio quotidiano, graduale. L'ozono prepara il terreno, i probiotici colonizzano meglio.",
+      "ingredient_informed_notes": "Formula con mix probiotico Ecologic® 500 (Bifidobacteria, Lactobacilli, Lactococcus), Lactobacillus acidophilus SGL11 e OZOILAB®. Il razionale 'olio ozonizzato + probiotici' è il differenziante: l'ozono modula l'ambiente intestinale (redox, infiammazione) così i probiotici attecchiscono meglio. Prodotto gluten-free e lactose-free friendly — angle utile per chi ha sensibilità alimentari.",
+      "product_friendly_notes": "Senza glutine e senza lattosio: comunicabile come elemento di accessibilità a un pubblico con intolleranze."
+    },
+
+    "artiplus": {
+      "product": "BYO3 Artiplus",
+      "product_payoff": "Ozone for Mobility — Supporto della mobilità articolare, azione antinfiammatoria",
+      "primary_buyer": "Due persone agganciate allo stesso prodotto: (A) adulto/a 50-70 con primi segnali di rigidità/osteoartrosi lieve che vuole mantenere mobilità e autonomia; (B) adulto/a attivo/sportivo 35-55 con stress muscolo-tendineo, tendinopatie o recupero post-esercizio/infortunio.",
+      "demographics_overrides": {
+        "age_range": "35-70 (due cluster: 35-55 sportivo, 50-70 mobilità/età)",
+        "gender_split": "Equilibrato, lieve skew femminile per sensibilità al tema; cluster sportivo più maschile"
+      },
+      "specific_pain_points": [
+        "Rigidità mattutina",
+        "Dolori articolari dopo attività fisica",
+        "Tendiniti, stiramenti, recupero lento post-allenamento",
+        "Paura della perdita di autonomia con l'età",
+        "Stanchezza degli antinfiammatori farmacologici (FANS) e dei loro effetti gastrici",
+        "Osteoartrosi lieve a ginocchio/anca/colonna (uso interno)"
+      ],
+      "specific_desires": [
+        "Continuare a fare le cose che amano (camminare, sport, viaggiare, giardinaggio)",
+        "Un supporto naturale per la mobilità senza gli effetti collaterali dei farmaci",
+        "Recupero più rapido dopo sport o sforzo",
+        "Sentirsi 'sciolti' al mattino"
+      ],
+      "moments_of_need": [
+        "Primi 'scricchiolii' che diventano regolari",
+        "Dopo un infortunio sportivo o in fase di riabilitazione",
+        "Stagione fredda che peggiora i sintomi",
+        "Consiglio di fisioterapista o medico"
+      ],
+      "key_objection": "'I prodotti per le articolazioni sono tutti uguali. Cosa cambia con questo?'",
+      "messaging_angle": "Mobilità come libertà, non come prestazione. Approccio multi-target (non un solo ingrediente) e costanza graduale. Per l'età e per lo sport.",
+      "ingredient_informed_notes": "Formula multi-target: Glucosammina + Condroitina (struttura/cartilagine), Collagene Verisol® (tessuti connettivi), Boswellia + Artiglio del diavolo (componenti antinfiammatorie/analgesiche naturali), Rame e OZOILAB®. La storia è 'quattro azioni insieme' (antinfiammatoria, analgesica, strutturale, rigenerativa) contro il singolo ingrediente dei prodotti comuni.",
+      "allergen_note": "Contiene PESCE (condroitina di origine ittica): allergene da dichiarare sempre. Rilevante per chi ha allergia al pesce.",
+      "tone_caveat": "Non promettere 'fine del dolore'. 'Supporto della mobilità' e 'benessere articolare' sono il registro consumer; artrosi/artrite/tendiniti restano uso interno/professionale."
+    }
+  },
+
+  "audience_segmentation_for_campaigns": {
+    "broad_awareness": "Tutto l'ICP ombrello — contenuti EDUCA su ozono, microbiota, stress ossidativo, mobilità",
+    "consideration_donna_uomo_artiplus": "Sub-profili specifici 45+, contenuti VALIDA con linguaggio adulto",
+    "conversion_tonico_probiotic": "Sub-profili più ampi 30-55, contenuti ATTIVA con focus quotidiano e routine",
+    "retention_subscribe_and_save": "Clienti esistenti (in roadmap), comunicazione CONNETTI su community e ritualità d'uso"
+  },
+
+  "what_we_do_not_target": [
+    "Under 30 (eccetto contenuti educational generici)",
+    "Pubblico fitness aggressivo / bodybuilding",
+    "Pubblico 'detox/cleanse/biohacking' anti-scientifico",
+    "Persone in cerca di soluzioni dimagranti rapide",
+    "Pubblico con patologie acute che richiedono cure mediche"
+  ]
+}

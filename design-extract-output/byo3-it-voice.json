@@ -1,0 +1,107 @@
+{
+  "tone": "neutral",
+  "pronoun": "third-person",
+  "headingStyle": "unknown",
+  "headingLengthClass": "tight",
+  "ctaVerbs": [
+    {
+      "value": "scopri",
+      "count": 25
+    },
+    {
+      "value": "acquista",
+      "count": 21
+    },
+    {
+      "value": "ozono",
+      "count": 4
+    },
+    {
+      "value": "naturfarma",
+      "count": 4
+    },
+    {
+      "value": "womanhealth",
+      "count": 4
+    },
+    {
+      "value": "invia",
+      "count": 4
+    },
+    {
+      "value": "st",
+      "count": 1
+    },
+    {
+      "value": "email",
+      "count": 1
+    },
+    {
+      "value": "privacy",
+      "count": 1
+    },
+    {
+      "value": "cookie",
+      "count": 1
+    }
+  ],
+  "buttonPatterns": [
+    {
+      "value": "scopri di più",
+      "count": 24
+    },
+    {
+      "value": "acquista ora",
+      "count": 21
+    },
+    {
+      "value": "ozono salute",
+      "count": 4
+    },
+    {
+      "value": "naturfarma",
+      "count": 4
+    },
+    {
+      "value": "4womanhealth",
+      "count": 4
+    },
+    {
+      "value": "invia",
+      "count": 4
+    },
+    {
+      "value": ".st0 {        fill: none;        stroke: #212121;        stroke-linecap: round;        stroke-linejoin: round;        stroke-width: 4px;      }",
+      "count": 1
+    },
+    {
+      "value": "email\ninvia",
+      "count": 1
+    },
+    {
+      "value": "privacy policy",
+      "count": 1
+    },
+    {
+      "value": "cookie policy",
+      "count": 1
+    },
+    {
+      "value": "scopri di più e personalizza",
+      "count": 1
+    },
+    {
+      "value": "rifiuta",
+      "count": 1
+    },
+    {
+      "value": "accetta",
+      "count": 1
+    }
+  ],
+  "sampleHeadings": [],
+  "stats": {
+    "buttons": 68,
+    "headings": 0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "openGraph": {
+    "locale": "it_IT",
+    "type": "website",
+    "title": "Home - Byo3",
+    "description": "Rivoluziona il tuo benessere con l’ozono in capsuleOgni respiro che facciamo inizia con l’ossigeno. Ma se l’ossigeno potesse fare qualcosa di più che sostenere la vita? E se potesse guarire, proteggere e dare energia?ACQUISTA ORA BYO3: Il mondo dell’ozono racchiuso in una capsula Innovazione, natura e benessere in una linea nutraceutica esclusiva!  TONICO Energia e […]",
+    "url": "https://byo3.it/",
+    "site_name": "Byo3",
+    "image": "https://byo3.it/wp-content/uploads/2025/08/Image_fx_XL.png",
+    "image:width": "600",
+    "image:height": "463",
+    "image:type": "image/png"
+  },
+  "twitter": {
+    "card": "summary_large_image"
+  },
+  "description": null,
+  "canonical": null,
+  "themeColor": null,
+  "viewport": "width=device-width, initial-scale=1",
+  "favicons": [
+    {
+      "rel": "icon",
+      "href": "https://byo3.it/wp-content/uploads/2025/09/cropped-favi-32x32.png",
+      "sizes": "32x32",
+      "type": ""
+    },
+    {
+      "rel": "icon",
+      "href": "https://byo3.it/wp-content/uploads/2025/09/cropped-favi-192x192.png",
+      "sizes": "192x192",
+      "type": ""
+    },
+    {
+      "rel": "apple-touch-icon",
+      "href": "https://byo3.it/wp-content/uploads/2025/09/cropped-favi-180x180.png",
+      "sizes": "",
+      "type": ""
+    }
+  ],
+  "manifest": null,
+  "structuredData": [
+    {
+      "type": "Thing",
+      "name": null,
+      "sample": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://byo3.it/\",\"url\":\"https://byo3.it/\",\"name\":\"Home - Byo3\",\"isPartOf\":{\"@id\":\"https://byo3.it/#website\"},\"about\":{\"@id\":\"https://byo3.it/#organization\"},\"primaryImageOfPage\":{\"@id\":\"https://byo3.it/#primaryimage\"},\"image\":{\"@id\":\"https://byo3.it/#primaryimage\"},\"thumbnailUrl\":\"https://byo3.it/wp-content/uploads/2025/08/Image"
+    }
+  ],
+  "score": {
+    "hasOg": true,
+    "hasTwitter": true,
+    "hasDescription": false,
+    "hasCanonical": false,
+    "hasStructuredData": true,
+    "hasFavicon": true,
+    "hasThemeColor": false
+  }
+}

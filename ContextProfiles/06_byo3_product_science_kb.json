@@ -1,0 +1,343 @@
+{
+  "profile_type": "product_science_knowledge_base",
+  "brand": "BYO3",
+  "version": "1.0",
+  "last_updated": "2026-05-30",
+  "language": "italiano",
+  "purpose": "Knowledge base scientifico-prodotto di riferimento per la creazione di contenuti (social, blog, e-commerce, ads) e per le schede prodotto del nuovo e-commerce BYO3.it. Raccoglie come funziona ogni integratore, gli ingredienti con i dosaggi, la scienza dietro, le referenze, e tutto ciò che non rientra nei profili Brand Voice / ICP / Offer. Fonte: bugiardini ufficiali (26 mag 2026), schede prodotto di sintesi e dossier scientifici Probiotic e Artiplus.",
+
+  "how_to_use_this_file": {
+    "consumer_vs_professional": "Ogni voce distingue ciò che è comunicabile al consumatore (claim conformi normativa integratori) da ciò che è uso interno/professionale (condizioni cliniche, citochine, studi). Vedi profilo Brand Voice v1.1 → claims_discipline.two_audience_rule.",
+    "ozonoterapia_boundary": "Quando si parla della scienza dell'ozono, ricordare: OzonoSalute (blog) può trattare l'ozonoterapia medicale in modo educativo; BYO3 parla di integratori a base di OZOILAB®. Non mescolare i due piani in un unico contenuto consumer.",
+    "doses_disclaimer": "I dosaggi sono per dose massima giornaliera (2 capsule). Alcuni valori erano ambigui all'OCR dei bugiardini e sono segnalati 'da confermare': non pubblicarli come esatti finché non verificati su scheda tecnica."
+  },
+
+  "ozoilab_technology": {
+    "what_it_is": "OZOILAB® è olio di girasole biologico ozonizzato e stabilizzato. È l'ingrediente-firma comune a tutti e 5 i prodotti della linea Ozoilab. L'ozonizzazione genera 'ozonidi' (composti stabili derivati dalla reazione tra ozono e acidi grassi insaturi dell'olio) che veicolano in forma orale e graduale gli effetti biologici dell'ozono.",
+    "mechanisms_consumer_language": [
+      "Aiuta il corpo a produrre i propri antiossidanti",
+      "Contribuisce a tenere in equilibrio i processi infiammatori",
+      "Favorisce l'ossigenazione dei tessuti e la microcircolazione",
+      "Ha un'azione antimicrobica naturale"
+    ],
+    "mechanisms_professional_language": [
+      "Stimolo ossidativo lieve e controllato (ormesi) → up-regulation di antiossidanti endogeni: SOD (superossido dismutasi), catalasi, glutatione perossidasi (GPx)",
+      "Modulazione redox e dello stato infiammatorio (riduzione di IL-6 e TNF-α in modelli preclinici/clinici)",
+      "Azione antimicrobica selettiva, anche su biofilm (es. Candida, C. difficile, S. mutans)",
+      "Miglioramento di microcircolo e ossigenazione tissutale"
+    ],
+    "why_it_matters_for_brand": "OZOILAB® è il filo rosso narrativo: una sola tecnologia, cinque applicazioni. Permette una storia di brand coerente che si declina per bisogno specifico."
+  },
+
+  "hormesis_ormesi": {
+    "definition_consumer": "L'ormesi è un principio semplice: un piccolo stimolo, dato nella dose giusta, allena il corpo a difendersi meglio. Come l'attività fisica moderata o un po' di sole: la dose fa la differenza. L'olio di girasole ozonizzato lavora così — uno stimolo lieve che attiva le difese naturali.",
+    "definition_professional": "Risposta bifasica dose-dipendente in cui basse dosi di uno stressore (qui ozonidi/ROS) inducono effetti adattativi benefici, mentre alte dosi sarebbero dannose. Dal greco 'hormaein' (stimolare).",
+    "biological_effects_cited_in_dossier": [
+      "Produzione di antiossidanti endogeni (SOD, catalasi)",
+      "Riparazione del DNA",
+      "Proteine da shock termico (HSP)",
+      "Autofagia e rigenerazione cellulare",
+      "Maggiore tolleranza allo stress ossidativo, supporto a longevità e resilienza"
+    ],
+    "everyday_analogies_for_content": [
+      "L'attività fisica moderata: stress controllato che rende più forti",
+      "La restrizione calorica leggera",
+      "L'esposizione gestita al sole",
+      "L'allenamento: non si diventa più forti senza un piccolo stimolo"
+    ],
+    "content_value": "È il concetto educational più potente e differenziante del brand. Perfetto per caroselli EDUCA, reel divulgativi e sezione 'la scienza' delle schede prodotto. Tono accessibile nel consumer, meccanismi nel professionale."
+  },
+
+  "products": {
+
+    "tonico": {
+      "identity": {
+        "name": "BYO3 Tonico",
+        "payoff": "Ozone for Power",
+        "descriptor": "Supporto del tono fisico e mentale, contro la stanchezza quotidiana",
+        "format": "60 capsule da 630 mg",
+        "posology": "2 capsule/giorno, preferibilmente al mattino (contiene caffeina)",
+        "capsule_note": "La grammatura 630 mg è la più alta della linea"
+      },
+      "ingredients": [
+        {"name": "OZOILAB® (olio di girasole ozonizzato)", "dose_2caps": "da confermare", "role": "Antiossidante, modula infiammazione, ossigenazione tissutale, antimicrobico"},
+        {"name": "Muira Puama (corteccia e.s. D:E 4:1)", "dose_2caps": "200 mg", "role": "Energizzante e stimolante neuro-muscolare"},
+        {"name": "Damiana (foglie e.s. D:E 4:1)", "dose_2caps": "130 mg", "role": "Adattogeno, utile per stress mentale e affaticamento"},
+        {"name": "Guaranà (semi e.s. tit. 8% caffeina)", "dose_2caps": "80 mg", "role": "Attenzione, resistenza fisica, azione termogenica"},
+        {"name": "L-Glutatione ridotto (SETRIA®)", "dose_2caps": "30 mg", "role": "Antiossidante, detossificante, supporto immunitario"},
+        {"name": "Taurina", "dose_2caps": "da confermare", "role": "Supporto energetico/muscolare"}
+      ],
+      "how_it_works_narrative": "Combina l'azione antiossidante e ossigenante dell'olio ozonizzato con stimolanti naturali (Muira Puama, Guaranà) e adattogeni (Damiana, Glutatione) per sostenere tono fisico e mentale e contrastare la stanchezza, soprattutto nei cambi di stagione e nei periodi di stress.",
+      "consumer_claims": ["Supporto del tono fisico e mentale", "Aiuta a contrastare la stanchezza quotidiana", "Azione antiossidante", "Favorisce ossigenazione e circolazione"],
+      "internal_only_contexts": "Stati infiammatori cronici, affaticamento post-virale, astenia stagionale, convalescenza (uso interno, non claim consumer)",
+      "time_to_effect": "Beneficio graduale nelle settimane; la componente caffeina dà un supporto più immediato all'attenzione",
+      "warnings_specific": "Contiene caffeina (da Guaranà): cautela per soggetti sensibili e in tarda giornata. + avvertenze comuni (favismo/G6PD, gravidanza/allattamento)",
+      "content_angles": [
+        "Cambi di stagione: perché ci sentiamo più stanchi e cosa fa il corpo",
+        "Tono fisico e mentale come una cosa sola (asse corpo-mente)",
+        "Adattogeni spiegati semplici (cos'è la Damiana, cos'è la Muira Puama)",
+        "Glutatione: l'antiossidante 'master' del corpo (educational)",
+        "Energia vera vs scossa da caffè: differenza tra eccitare e sostenere"
+      ]
+    },
+
+    "donna": {
+      "identity": {
+        "name": "BYO3 Donna",
+        "payoff": "Ozone for Her Vitality",
+        "descriptor": "Supporto del tono fisico e mentale, aiuta l'equilibrio ormonale femminile",
+        "format": "60 capsule da 510 mg",
+        "posology": "2 capsule/giorno"
+      },
+      "ingredients": [
+        {"name": "OZOILAB®", "dose_2caps": "84 mg", "role": "Rigenerante tissutale, antimicrobico, ossigenante, antiossidante"},
+        {"name": "Magnesio ossido", "dose_2caps": "50 mg", "role": "Supporto a stanchezza/funzione nervosa e muscolare"},
+        {"name": "Estratto di polline purificato biologico", "dose_2caps": "40 mg", "role": "Ricostituente, equilibrio endocrino, rinforzo immunitario"},
+        {"name": "L-Arginina", "dose_2caps": "20 mg", "role": "Circolazione/tono (con Maca e Griffonia agisce su umore, desiderio, tono fisico)"},
+        {"name": "Griffonia simplicifolia (e.s. 20% 5-HTP)", "dose_2caps": "20 mg (4 mg 5-HTP)", "role": "Precursore serotonina → umore, sonno"},
+        {"name": "Maca (radice e.s. 1:4)", "dose_2caps": "20 mg", "role": "Tono, desiderio, adattogeno"},
+        {"name": "Cordyceps Sinensis (e.s. 30% polisaccaridi)", "dose_2caps": "da confermare", "role": "Energia fisica/mentale, riduce fatica e stress"},
+        {"name": "Mirtillo rosso di palude / Cranberry (e.s. 1% OPC)", "dose_2caps": "60 mg", "role": "Benessere uro-genitale (contesto cistiti ricorrenti)"},
+        {"name": "Schisandra (frutto e.s. 1% schisandrina)", "dose_2caps": "20 mg", "role": "Adattogeno, energia, anti-fatica"},
+        {"name": "Withania Somnifera / Ashwagandha (radice e.s. 2,5% withanolidi)", "dose_2caps": "20 mg", "role": "Adattogeno, gestione stress/ansia"}
+      ],
+      "how_it_works_narrative": "Mette insieme tre fronti: umore e stress (Griffonia/5-HTP, Withania, Schisandra, Cordyceps), tono e desiderio (Maca, L-Arginina), benessere uro-genitale (Cranberry), con il supporto antiossidante dell'olio ozonizzato e del polline per l'equilibrio endocrino. Pensato per accompagnare le fasi della vita femminile.",
+      "consumer_claims": ["Supporto del tono fisico e mentale", "Aiuta l'equilibrio ormonale femminile", "Contribuisce alla regolazione dell'umore contrastando stress e ansia", "Supporto al benessere uro-genitale", "Azione antiossidante"],
+      "internal_only_contexts": "Sindrome premestruale, perimenopausa, cistiti/infezioni urinarie ricorrenti, calo della libido, insonnia, fatica post-virale (uso interno, non claim consumer)",
+      "time_to_effect": "4-8 settimane di costanza; la componente umore/sonno può percepirsi prima",
+      "warnings_specific": "Contiene Griffonia (5-HTP): attenzione a chi assume farmaci serotoninergici/antidepressivi → rimando al medico. + avvertenze comuni",
+      "content_angles": [
+        "Adattogeni al femminile: cosa sono e come 'aiutano ad adattarsi'",
+        "L'asse umore-ormoni-energia spiegato semplice",
+        "Cranberry e benessere uro-genitale (educational, no claim cura)",
+        "Perimenopausa senza tabù: parlarne da adulte",
+        "Ashwagandha e Schisandra: due adattogeni, due ruoli"
+      ],
+      "tone_caveat": "Mai paternalismo o toni da 'a una certa età'. Tema uro-genitale e libido con naturalezza e rispetto."
+    },
+
+    "uomo": {
+      "identity": {
+        "name": "BYO3 Uomo",
+        "payoff": "Ozone for His Vitality",
+        "descriptor": "Supporto del tono fisico e mentale, aiuta l'equilibrio ormonale maschile",
+        "format": "60 capsule da 510 mg",
+        "posology": "2 capsule/giorno"
+      },
+      "ingredients": [
+        {"name": "OZOILAB®", "dose_2caps": "84 mg", "role": "Rigenerante tissutale, antimicrobico, ossigenante, antiossidante"},
+        {"name": "Magnesio ossido", "dose_2caps": "60 mg", "role": "Prestazioni fisiche/muscolari, funzione nervosa"},
+        {"name": "L-Arginina", "dose_2caps": "20 mg", "role": "Via dell'ossido nitrico → vasodilatazione/circolazione"},
+        {"name": "Ornitina", "dose_2caps": "20 mg", "role": "Recupero, detossificazione epatica, energia"},
+        {"name": "L-Citrullina", "dose_2caps": "20 mg", "role": "Supporto NO/circolazione e performance"},
+        {"name": "Tribulus Terrestris (frutto e.s. 40% saponine)", "dose_2caps": "20 mg (8 mg saponine)", "role": "Libido ed equilibrio ormonale maschile"},
+        {"name": "Maca (radice e.s. 1:4)", "dose_2caps": "20 mg", "role": "Libido, tono, adattogeno"},
+        {"name": "Cordyceps Sinensis (e.s. 30% polisaccaridi)", "dose_2caps": "20 mg (6 mg polisaccaridi)", "role": "Energia, resistenza, supporto immunitario"},
+        {"name": "Zinco citrato", "dose_2caps": "20 mg", "role": "Testosterone/equilibrio ormonale, prostata"},
+        {"name": "Vitamina D3", "dose_2caps": "da confermare", "role": "Supporto ormonale/immunitario"},
+        {"name": "Vitamina B12", "dose_2caps": "da confermare", "role": "Energia, metabolismo"}
+      ],
+      "how_it_works_narrative": "Doppio binario: performance e recupero (Arginina/Ornitina/Citrullina/Magnesio sulla via dell'ossido nitrico, Cordyceps per resistenza) ed equilibrio ormonale/vitalità (Tribulus, Maca, Zinco), con olio ozonizzato e vitamine a supporto. Energia, prestazioni, salute prostatica e funzione sessuale come tema adulto.",
+      "consumer_claims": ["Supporto dell'equilibrio ormonale maschile e della funzionalità endocrina", "Supporto del tono fisico e mentale", "Supporto della funzione muscolare e delle prestazioni", "Sostegno alla funzione sessuale maschile", "Coadiuvante nella salute di prostata e vie urinarie", "Azione antiossidante"],
+      "internal_only_contexts": "Andropausa, disfunzione erettile lieve, prostatite/uretrite, calo del testosterone (uso interno, non claim consumer)",
+      "time_to_effect": "4-8 settimane di costanza",
+      "warnings_specific": "Avvertenze comuni (favismo/G6PD, gravidanza/allattamento non applicabile ma resta il quadro comune). Rimando al medico per chi ha condizioni prostatiche in cura.",
+      "content_angles": [
+        "La via dell'ossido nitrico spiegata semplice (circolazione e performance)",
+        "Andropausa: il calo maschile di cui non si parla, trattato con serietà",
+        "Zinco e benessere maschile (educational)",
+        "Recupero dopo lo sport: cosa serve al corpo over-40",
+        "Tribulus e Maca: cosa dicono davvero (mito vs realtà, sobrio)"
+      ],
+      "tone_caveat": "Mai toni da spogliatoio o allusivi. Serietà, non comicità maschile."
+    },
+
+    "probiotic": {
+      "identity": {
+        "name": "BYO3 Probiotic",
+        "payoff": "Ozonize Your Health",
+        "descriptor": "Aiuta il microbiota, favorisce il transito intestinale",
+        "format": "60 capsule da 510 mg",
+        "posology": "2 capsule/giorno, preferibilmente al mattino",
+        "dietary": "Gluten-free e lactose-free friendly"
+      },
+      "ingredients": [
+        {"name": "Ecologic® 500 (mix Bifidobacterium, Lactobacillus, Lactococcus)", "dose_2caps": "260 mg", "role": "Rinnovo del microbiota, alta resistenza gastrica, colonizzazione"},
+        {"name": "OZOILAB®", "dose_2caps": "84 mg", "role": "Modula ambiente intestinale (redox, infiammazione), integrità mucosa, antimicrobico"},
+        {"name": "Lactobacillus acidophilus SGL11 (100 mld ufc/g)", "dose_2caps": "60 mg", "role": "Riduce gonfiore/flatulenza, supporta digestione e acidità"},
+        {"name": "Amido di mais, cellulosa, sali di magnesio", "dose_2caps": "supporto", "role": "Eccipienti / supporto prebiotico all'attività probiotica"}
+      ],
+      "how_it_works_narrative": "La sinergia è il cuore del prodotto: l'olio ozonizzato prepara e modula l'ambiente intestinale (riduce infiammazione e stress ossidativo, sostiene l'integrità della mucosa) così i probiotici di Ecologic 500 e L. acidophilus SGL11 attecchiscono e lavorano meglio. Risultato: riequilibrio del microbiota e supporto al transito, con un approccio più completo dei probiotici da soli.",
+      "consumer_claims": ["Aiuta il microbiota", "Favorisce il transito intestinale", "Supporto dell'apparato digerente", "Azione antiossidante"],
+      "internal_only_contexts": "IBS/colon irritabile, disbiosi post-antibiotica, infiammazione intestinale lieve, malassorbimento (uso interno/professionale, non claim consumer)",
+      "time_to_effect": "Dossier: risposta in 1-3 settimane vs 2-8 settimane dei probiotici da soli. Consumer: comunicare comunque la costanza.",
+      "scientific_highlights_professional": [
+        "Olio ozonizzato: ↓ IL-6 e TNF-α, ↑ SOD, ↓ stress ossidativo (modelli preclinici/clinici di colite)",
+        "Azione su biofilm di Candida, C. difficile, E. coli",
+        "Ecologic 500: rinnovo microbiota e colonizzazione; SGL11: ↓ sintomi IBS, protezione da diarree (infettive e da antibiotici)",
+        "Effetto ormetico → produzione SOD/catalasi/glutatione"
+      ],
+      "warnings_specific": "Avvertenze comuni (favismo/G6PD, gravidanza/allattamento)",
+      "content_angles": [
+        "Cosa sono microbiota e disbiosi (educational base)",
+        "Perché i probiotici 'da soli' a volte non bastano (il terreno prima del seme)",
+        "Asse intestino-cervello / intestino-fegato",
+        "Dopo l'antibiotico: come si rimette in equilibrio l'intestino",
+        "Gluten-free e lactose-free: per chi ha sensibilità",
+        "Ormesi e intestino (collegamento al concetto-firma)"
+      ]
+    },
+
+    "artiplus": {
+      "identity": {
+        "name": "BYO3 Artiplus",
+        "payoff": "Ozone for Mobility / Ozonize Your Mobility",
+        "descriptor": "Protezione e mantenimento della funzionalità osteoarticolare, supporto della mobilità",
+        "format": "60 capsule da 570 mg (verificare: una slide riporta 500 mg)",
+        "posology": "2 capsule/giorno, uso continuativo",
+        "allergen": "CONTIENE PESCE (condroitina ittica)"
+      },
+      "ingredients": [
+        {"name": "Glucosammina", "dose_2caps": "204 mg", "role": "Supporto e rigenerazione cartilagine"},
+        {"name": "Condroitina (da pesce)", "dose_2caps": "70 mg", "role": "Idratazione ed elasticità articolare"},
+        {"name": "OZOILAB®", "dose_2caps": "100 mg", "role": "Modulazione redox/infiammazione, ossigenazione, microcircolo (dose più alta della linea)"},
+        {"name": "Boswellia serrata (resina e.s. 65% acido boswellico)", "dose_2caps": "30 mg (19,5 mg acido boswellico)", "role": "Antinfiammatoria naturale (inibitore 5-LOX)"},
+        {"name": "Artiglio del diavolo (Harpagophytum, e.s. 1,5% arpagoside)", "dose_2caps": "30 mg", "role": "Analgesica/antiflogistica (COX-2/TNF-α)"},
+        {"name": "Collagene VERISOL® (tipo 1)", "dose_2caps": "30 mg", "role": "Sostegno strutturale tendini/legamenti, riparazione tessuti"},
+        {"name": "Rame gluconato", "dose_2caps": "5 mg", "role": "Cofattore per tessuti connettivi"}
+      ],
+      "how_it_works_narrative": "Formula multi-target che agisce su quattro fronti insieme: antinfiammatorio (Boswellia, Artiglio del diavolo, ozonidi), analgesico (fitocomposti + ozonidi), strutturale (collagene + condroitina + glucosammina), rigenerativo/redox (ozonidi, microcircolo). Il vantaggio rispetto ai prodotti a singolo ingrediente è la combinazione, pensata per mobilità ed elasticità nel tempo, per l'età e per lo sport.",
+      "consumer_claims": ["Protezione e mantenimento delle articolazioni e dei tessuti connettivi", "Supporto della mobilità articolare (elasticità e flessibilità)", "Azione antinfiammatoria e antiossidante", "Miglioramento di microcircolazione e ossigenazione tissutale"],
+      "internal_only_contexts": "Osteoartrosi lieve (ginocchio/anca/colonna), tendinopatie, stiramenti, artrite, borsiti, fasciti, recupero post-infortunio (uso interno/professionale, non claim consumer)",
+      "time_to_effect": "Dossier: riduzione della sintomatologia in 1-2 settimane; benessere strutturale su tempi più lunghi. Consumer: privilegiare la finestra prudente e la costanza.",
+      "scientific_highlights_professional": [
+        "Boswellia: ↓ dolore e rigidità (RCT), inibizione 5-LOX",
+        "Artiglio del diavolo: ↓ TNF-α e CRP, analgesico naturale",
+        "Condroitina: ritarda i danni strutturali in osteoartrosi",
+        "Collagene (Verisol): ↑ flessibilità, ↓ rigidità",
+        "Olio ozonizzato: ↓ IL-6, ↑ SOD, ↓ stress ossidativo; profilo non gastrolesivo vs FANS"
+      ],
+      "warnings_specific": "ALLERGENE PESCE (condroitina). + avvertenze comuni. Non presentare come sostituto di FANS/farmaci.",
+      "content_angles": [
+        "Multi-target vs singolo ingrediente: perché conta per le articolazioni",
+        "Boswellia e Artiglio del diavolo: i due 'classici' naturali spiegati",
+        "Collagene e cartilagine: cosa fa davvero (educational, no over-claim)",
+        "Mobilità come libertà: per camminare, viaggiare, fare sport",
+        "Sport e recupero articolare over-40",
+        "Ormesi e tessuti (collegamento al concetto-firma)"
+      ],
+      "tone_caveat": "Non promettere 'fine del dolore'. Mai confronto diretto coi farmaci come superiorità terapeutica."
+    }
+  },
+
+  "cross_product_synergy_and_bundles": {
+    "shared_story": "Tutti contengono OZOILAB® e condividono azione antiossidante, ossigenazione tissutale e approccio graduale: questo permette narrazioni di brand trasversali (es. 'la famiglia OZOILAB').",
+    "possible_bundles_for_content": [
+      "Donna + Probiotic (benessere femminile + intestino, skew donne)",
+      "Uomo + Tonico (energia e performance maschile)",
+      "Artiplus + Tonico (mobilità + recupero sportivo)",
+      "Probiotic + Tonico (reset stagionale: intestino + energia)"
+    ],
+    "do_not": "Non suggerire l'assunzione contemporanea come consiglio medico; presentare i bundle come 'aree di benessere complementari' e rimandare all'esperto per le combinazioni."
+  },
+
+  "scientific_references_from_dossiers": {
+    "note": "Referenze bibliografiche citate nei dossier Probiotic e Artiplus. Utili per blog OzonoSalute e contenuti VALIDA. Citare sempre con misura e contesto; non usarle per costruire claim terapeutici nel consumer.",
+    "ozono_e_intestino": [
+      "Catelani Cardoso et al. (2004), olio di girasole ozonizzato + acido alfa-lipoico e lattobacilli, studio pre-clinico (attività antiulcera, antinfiammatoria, antimicrobica)",
+      "Zhou F et al. (2023), Ozone therapy attenuates inflammation and oxidative stress in colitis models, Front Physiol",
+      "Higa B et al. (2022), olio ozonizzato efficace su biofilm di Candida e S. mutans, Med Mycol"
+    ],
+    "microbiota_probiotici": [
+      "Guarner F, Malagelada JR (2003), Gut flora in health and disease, Lancet",
+      "Ford AC, Moayyedi P et al. (2014), efficacia probiotici in IBS, Am J Gastroenterol",
+      "Daliri EB-M et al. (2018), gut microbiota e metabolismo, Microorganisms",
+      "EFSA, Scientific Opinion sul mantenimento della barriera intestinale"
+    ],
+    "ozono_articolare_dolore": [
+      "Hidalgo-Tallón FJ et al. (2022), Updated Review on Ozone Therapy in Pain Medicine, Front Physiol",
+      "Anzolin AP et al. (2021), olio ozonizzato topico in osteoartrosi severa, RCT, Complement Ther Clin Pract",
+      "Bonetti M et al. (2022), ozono nel dolore lombare cronico, Biomedicines"
+    ],
+    "fitocomposti_articolari": [
+      "Ammon HP (2006), acidi boswellici nelle malattie infiammatorie croniche, Planta Med",
+      "Chrubasik S et al. (2007), Artiglio del diavolo per osteoartrosi e lombalgia, Br J Sports Med",
+      "Hochberg MC et al. (2008), condroitina e progressione osteoartrosi ginocchio, Arthritis Rheum",
+      "Zdzieblik D et al. (2017), integrazione di collagene e salute articolare, RCT, Nutrients"
+    ],
+    "ormesi": [
+      "Rattan SIS (2019), Hormesis in aging, Ageing Research Reviews",
+      "Schumacher B (2009), danno al DNA e invecchiamento, DNA Repair",
+      "Bocci V (2010), Ozone: A New Medical Drug, Springer"
+    ]
+  },
+
+  "content_creation_playbook": {
+    "by_pillar": {
+      "EDUCA": "Spiegare ozono/ormesi/microbiota/mobilità senza vendere. Asset migliori: ormesi, OZOILAB®, asse intestino-cervello, adattogeni.",
+      "VALIDA": "Mostrare la ricerca, i dossier, le materie prime brandizzate (Verisol, Setria, Ecologic 500), il made in Italy, il dietro le quinte produttivo.",
+      "CONNETTI": "Community, ritualità d'uso (la capsula del mattino), storie di benessere quotidiano, Q&A con l'esperto.",
+      "ATTIVA": "Schede prodotto, bundle per bisogno, Subscribe & Save (quando attivo), CTA chiare verso BYO3.it."
+    },
+    "science_content_dos": [
+      "Tradurre i meccanismi in linguaggio quotidiano (ormesi = allenare le difese)",
+      "Usare metafore di equilibrio, ritmo, costanza",
+      "Citare la ricerca con misura quando si è in registro VALIDA",
+      "Distinguere sempre OZOILAB® (integratore) da ozonoterapia medicale (OzonoSalute)"
+    ],
+    "science_content_donts": [
+      "Portare nel consumer i termini clinici delle schede interne (IBS, artrosi, cistiti, prostatite)",
+      "Usare 'antinfiammatorio'/'antimicrobico' come promesse secche nel consumer",
+      "Trasformare le controindicazioni in leve di paura",
+      "Sovrapporre ozonoterapia e integratore nello stesso contenuto consumer"
+    ]
+  },
+
+  "ecommerce_specific": {
+    "product_page_structure_suggested": [
+      "Nome + payoff (es. 'Tonico — Ozone for Power')",
+      "Una frase di promessa (core_promise)",
+      "Bullet di claim conformi (consumer_claims)",
+      "Sezione 'Come funziona' (how_it_works_narrative in versione consumer)",
+      "Sezione 'Ingredienti' (tabella con dosi per dose giornaliera e ruolo in linguaggio semplice)",
+      "Sezione 'La scienza' (ormesi + OZOILAB®, collegamento al blog OzonoSalute)",
+      "Modo d'uso (2 capsule/giorno, eventuale nota mattino/caffeina)",
+      "Formato (60 capsule), Made in Italy",
+      "Avvertenze e allergeni (favismo/G6PD; Artiplus: pesce)",
+      "FAQ (vedi seeds)",
+      "Cross-sell / bundle correlati",
+      "CTA acquisto + (futuro) Subscribe & Save"
+    ],
+    "faq_seeds_common": [
+      "In quanto tempo si sentono i benefici? (costanza, 4-8 settimane; alcuni sintomi prima)",
+      "Posso assumerlo con altri farmaci? (consulto medico; rimando a Parla con l'esperto)",
+      "Contiene glutine/lattosio? (Probiotic: gluten/lactose-free friendly)",
+      "È adatto a vegani/vegetariani? (capsula vegetale HPMC; verificare per Artiplus per condroitina ittica e collagene)",
+      "Quante capsule al giorno? (2)",
+      "Cos'è l'olio di girasole ozonizzato (OZOILAB®)?",
+      "Cos'è l'ormesi?"
+    ],
+    "trust_elements": [
+      "Made in Italy, sito produttivo dichiarato",
+      "Materie prime brandizzate (Verisol®, Setria®, Ecologic® 500)",
+      "Dossier scientifici e blog OzonoSalute",
+      "Trasparenza su ingredienti e dosaggi"
+    ],
+    "category_page_angle": "Raccontare la 'famiglia OZOILAB®' (una tecnologia, cinque bisogni) e guidare alla scelta per bisogno (energia, donna, uomo, intestino, articolazioni)."
+  },
+
+  "compliance_layer": {
+    "golden_rule": "Sul consumer si usano SOLO i consumer_claims di ciascun prodotto (allineati a etichetta e normativa integratori). Gli internal_only_contexts e gli scientific_highlights_professional non vanno nel consumer.",
+    "words_to_avoid_consumer": ["cura", "guarisce", "tratta", "previene", "IBS", "artrosi", "cistite", "prostatite", "disfunzione erettile", "miracolo", "garantito", "detox"],
+    "always_include_when_relevant": ["Rimando al foglietto illustrativo", "Rimando a Parla con l'esperto/medico per terapie in corso", "Allergene pesce per Artiplus", "Caffeina per Tonico"]
+  },
+
+  "open_items": [
+    "Confermare dosi ambigue all'OCR: Tonico (Ozoilab, Taurina, caffeina effettiva); Donna (Maca/Cordyceps); Uomo (Vitamina D3, B12)",
+    "Uniformare grammatura Artiplus (570 vs 500 mg)",
+    "Chiarire classificazione Artiplus/Probiotic (integratore vs dispositivo medico CL.I)",
+    "CFU dichiarate dei ceppi del Probiotic",
+    "Confermare profilo vegano/vegetariano per ciascun prodotto",
+    "Prezzi e bundle"
+  ]
+}

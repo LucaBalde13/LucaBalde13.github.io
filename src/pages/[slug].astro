@@ -1,0 +1,17 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { legacyFiles, loadLegacyPage } from "../data/legacy-pages.js";
+
+export function getStaticPaths() {
+  return legacyFiles.map((fileName) => ({
+    params: { slug: fileName.replace(/\.html$/, "") },
+    props: { fileName }
+  }));
+}
+
+const page = loadLegacyPage(Astro.props.fileName);
+---
+
+<BaseLayout {...page}>
+  <Fragment set:html={page.body} />
+</BaseLayout>

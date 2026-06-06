@@ -1,0 +1,212 @@
+{
+  "profile_type": "brand_voice",
+  "brand": "BYO3",
+  "version": "1.1",
+  "last_updated": "2026-05-30",
+  "changelog": "v1.1 — Aggiunto registro professionale/HCP (esistono presentazioni scientifiche per medici e farmacisti). Affinata claims_discipline con distinzione consumer vs professionale. Aggiunto l'ormesi come asset narrativo. Aggiunta consapevolezza allergeni e controindicazioni (favismo/G6PD, pesce in Artiplus). Corretto dosaggio negli esempi (2 capsule/giorno, non 1).",
+  "language": "italiano",
+  "brand_architecture_note": "BYO3 è il brand ombrello. Sotto stanno: Ozoilab (linea nutraceutica: Tonico, Artiplus, Probiotic, Uomo, Donna), Jalo3 (anti-aging cosmetico), OzonoSalute (blog medico-editoriale). La voce qui descritta è quella del brand ombrello BYO3, applicabile a tutta la comunicazione social, di sito e di marketing della linea nutraceutica. Per Jalo3 e OzonoSalute valgono varianti tonali separate.",
+
+  "brand_voice": {
+    "overall_tone": "Autorevole ma accessibile, scientifico ma non freddo. Parla come un esperto che si fida del lettore: non semplifica all'eccesso, non si nasconde dietro al gergo medico. Caldo nel tono, sobrio nelle promesse.",
+
+    "personality_traits": [
+      "Competente senza essere accademico",
+      "Caldo senza essere paternalistico",
+      "Sobrio senza essere noioso",
+      "Onesto sui limiti, generoso sulle informazioni",
+      "Italiano nel ritmo, internazionale nella precisione"
+    ],
+
+    "guiding_philosophy": {
+      "principle": "Under promise, over deliver",
+      "application": "Mai citato letteralmente in nessun output. Si traduce in: claim sempre prudenti rispetto a quello che il prodotto può effettivamente fare, numeri concreti dove possibile, e descrizione onesta dei tempi di beneficio (settimane, non giorni). Quando un'affermazione potrebbe suonare esagerata, ridimensionarla."
+    },
+
+    "sentence_style": {
+      "rhythm": "Frasi medio-brevi alternate a frasi più articolate quando serve spiegare un meccanismo. Mai paragrafi-monstre. Sui social, frasi corte e ritmate; nei contenuti editoriali, periodo più disteso ma sempre leggibile.",
+      "structure": "Soggetto chiaro all'inizio. Verbi attivi. Subordinate solo quando servono davvero alla precisione.",
+      "punctuation": "Punto fermo come strumento principale. Uso parsimonioso del punto e virgola. Trattini lunghi (—) per inciso quando serve enfasi. Punto esclamativo praticamente mai (massimo uno per post social, e solo se davvero giustificato)."
+    },
+
+    "register": {
+      "social_media": "Conversazionale, diretto, con qualche tocco di calore umano. Si può dare del tu.",
+      "website_product_pages": "Più formale ma sempre accessibile. Si può alternare tu e voi (cliente al singolare = tu, lettore generico = voi/forme impersonali).",
+      "editorial_blog_byo3": "Divulgativo-scientifico. Spiega meccanismi senza diventare paper accademico.",
+      "client_facing_documents": "Professionale, strategico, sobrio. Nessun gergo da agenzia.",
+      "internal_documents": "Più tecnico, processi visibili, ma sempre asciutto.",
+      "professional_hcp": "Registro tecnico-scientifico per medici, farmacisti e professionisti della salute (es. presentazioni prodotto, schede razionale, dossier). Qui SI PUÒ usare il linguaggio clinico: nomi di citochine (IL-6, TNF-α), enzimi (SOD, catalasi, GPx), condizioni (IBS, disbiosi, osteoartrosi), meccanismi (ormesi, modulazione redox). Riferimenti bibliografici espliciti. Questo registro NON si usa mai nei contenuti consumer/social: è materiale B2B e di detailing."
+    }
+  },
+
+  "language_principles": {
+    "words_to_use": [
+      "supporto",
+      "equilibrio",
+      "benessere",
+      "naturale",
+      "quotidiano",
+      "graduale",
+      "favorisce",
+      "contribuisce",
+      "ossigenazione",
+      "antiossidante",
+      "vitalità",
+      "energia",
+      "microbiota",
+      "ricerca",
+      "innovazione",
+      "patentato",
+      "stabilizzato",
+      "italiano",
+      "competenza",
+      "approfondimento"
+    ],
+
+    "words_to_avoid": [
+      "cura",
+      "guarisce",
+      "tratta",
+      "elimina",
+      "risolve",
+      "miracolo",
+      "miracoloso",
+      "rivoluzionario",
+      "magico",
+      "garantito",
+      "100%",
+      "subito",
+      "in pochi giorni",
+      "il migliore",
+      "unico al mondo",
+      "definitivo",
+      "potente",
+      "bomba",
+      "esplosivo",
+      "boost",
+      "shock",
+      "detox" ,
+      "hack",
+      "trucco",
+      "segreto"
+    ],
+
+    "claims_discipline": {
+      "rule": "Si usano solo claim coerenti con la normativa integratori. Mai claim terapeutici (cura, tratta, guarisce, previene). Si usa il linguaggio approvato dalle etichette: 'supporto', 'favorisce', 'contribuisce a', 'aiuta'.",
+      "two_audience_rule": "ATTENZIONE: i documenti aziendali esistono in due livelli. (1) CONSUMER/SOCIAL: claim conformi normativa integratori, niente condizioni mediche, niente meccanismi clinici dettagliati. (2) PROFESSIONALE/HCP (presentazioni, dossier per medici/farmacisti): può citare condizioni (IBS, osteoartrosi, disbiosi), citochine, studi. I termini clinici che si leggono nelle presentazioni scientifiche e nella colonna 'utile per' delle schede interne (es. artrosi, cistiti, prostatite, disfunzione erettile, colon irritabile) NON vanno MAI portati nel copy consumer: sono uso interno/professionale.",
+      "approved_phrasing_examples": [
+        "Aiuta il microbiota, favorisce il transito intestinale",
+        "Supporto del tono fisico e mentale",
+        "Contribuisce all'equilibrio ormonale femminile",
+        "Supporto della mobilità articolare",
+        "Aiuta a contrastare la stanchezza quotidiana",
+        "Favorisce l'ossigenazione tissutale e la circolazione",
+        "Contribuisce alla produzione endogena di antiossidanti"
+      ],
+      "non_approved_phrasing_consumer_examples": [
+        "Cura l'intestino irritabile / la sindrome del colon irritabile (IBS)",
+        "Tratta l'osteoartrosi / l'artrosi",
+        "Risolve la cistite / le infezioni urinarie ricorrenti",
+        "Cura la disfunzione erettile / la prostatite",
+        "Elimina lo stress ossidativo",
+        "Previene la menopausa / l'andropausa",
+        "Antinfiammatorio (usato come claim secco e assoluto nel consumer)"
+      ],
+      "antinfiammatorio_caveat": "'Azione antinfiammatoria' compare sulle etichette ed è quindi un claim di prodotto. Nei contenuti consumer usarlo con prudenza e sempre contestualizzato ('contribuisce a modulare lo stato infiammatorio', 'azione antiossidante e di supporto'), mai come promessa terapeutica secca. Nel registro professionale si può argomentare con i meccanismi (COX-2, 5-LOX, IL-6).",
+      "separation_rule": "Mai mescolare i benefici dell'ozonoterapia medicale con quelli dell'integratore in capsule. Sono cose diverse. Il blog OzonoSalute può parlare di ozonoterapia in modo educativo, BYO3 parla di integratori a base di OZOILAB® (olio di girasole ozonizzato stabilizzato).",
+      "allergen_and_contraindication_awareness": "Consapevolezza per chi scrive contenuti: tutti i prodotti sono controindicati in caso di favismo/deficit di G6PD e sconsigliati in gravidanza/allattamento senza consulto. Artiplus contiene PESCE (condroitina) — allergene da dichiarare. Non trasformare mai questi avvertimenti in leve di paura; sono informazioni di sicurezza, gestite con sobrietà e rimando al foglietto illustrativo / all'esperto."
+    },
+
+    "phrases_recurring": [
+      "Ozono in capsule per il tuo benessere quotidiano",
+      "Un supporto naturale, ogni giorno",
+      "La ricerca italiana al servizio del benessere",
+      "Tecnologia patentata, beneficio quotidiano",
+      "Non promette miracoli. Promette costanza."
+    ],
+
+    "phrases_to_avoid": [
+      "Cambia la tua vita",
+      "Risultati garantiti",
+      "Tutti ne parlano",
+      "Il segreto degli esperti",
+      "Sintesi e leverage",
+      "Game-changer",
+      "Disruptive",
+      "Senza fatica"
+    ]
+  },
+
+  "imagery_and_metaphor_guidelines": {
+    "use": [
+      "Riferimenti alla natura, all'aria, alla respirazione, all'equilibrio",
+      "Metafore di equilibrio, ritmo, costanza, gesto quotidiano",
+      "Linguaggio del corpo come sistema da ascoltare, non da combattere"
+    ],
+    "avoid": [
+      "Immagini cliniche, ospedaliere, di malattia",
+      "Linguaggio bellico (combattere, sconfiggere, attacco)",
+      "Metafore da fitness aggressivo (brucia, distruggi, spacca)",
+      "Riferimenti diretti a patologie specifiche"
+    ]
+  },
+
+  "tone_of_voice_examples": {
+    "good_social_post": "Lo stress ossidativo non si vede, ma si sente. Stanchezza diffusa, difese basse, recupero più lento. BYO3 Tonico nasce per dare al corpo un supporto antiossidante nei momenti in cui ne ha più bisogno — senza promesse esagerate. Costanza, settimane, beneficio graduale.",
+    "good_product_description": "Probiotic BYO3 è pensato per accompagnare ogni giorno l'equilibrio del microbiota intestinale. Due capsule al giorno, preferibilmente al mattino. Olio di girasole ozonizzato e fermenti probiotici, insieme. Non agisce d'urto. Agisce nel tempo.",
+    "good_email_subject": "Il microbiota cambia. Lentamente. Ecco cosa puoi fare.",
+    "bad_example_too_clinical": "L'azione ossigenante dell'ozono molecolare nelle cellule eucariotiche favorisce un riequilibrio omeostatico dei processi mitocondriali, contrastando il danno ossidativo derivato dallo squilibrio dei radicali liberi (ROS).",
+    "bad_example_too_hype": "BYO3 Tonico è una BOMBA di energia! In 7 giorni ti svegli un'altra persona! Detox totale, energia esplosiva, mai più stanchezza!",
+    "why_clinical_fails": "Allontana il lettore non specialista, suona freddo, non costruisce relazione",
+    "why_hype_fails": "Viola la filosofia under-promise-over-deliver, usa claim non conformi, ricorda gli infomercial degli anni '90"
+  },
+
+  "channel_specific_notes": {
+    "instagram_facebook": {
+      "tone": "Caldo, conversazionale, visivo. Il copy supporta l'immagine, non la duplica.",
+      "length": "Caption brevi-medie. Le prime due righe devono catturare prima del 'altro...'",
+      "hashtag_policy": "Massimo 8-10 hashtag, mai a sproposito. Mix di brand, categoria, community."
+    },
+    "linkedin": {
+      "tone": "Leggermente più formale, taglio professionale. Si può parlare di ricerca, innovazione, brand storytelling, processi.",
+      "length": "Post medio-lunghi accettati. Il pubblico LinkedIn legge se il contenuto vale.",
+      "what_works": "Storie di ricerca, dietro le quinte produttivi, conversazioni di settore."
+    },
+    "tiktok": {
+      "tone": "Più rapido, più informale, ma mai sguaiato. Educational con leggerezza.",
+      "length": "Video brevi (15-30s). Copy/caption minimi.",
+      "what_works": "Mini-spiegazioni, miti vs realtà, dietro-le-quinte di produzione e ricerca."
+    },
+    "meta_ads": {
+      "tone": "Diretto, orientato al beneficio, ma sempre sobrio. Niente trigger aggressivi.",
+      "structure": "Hook (problema) → contesto (perché succede) → ponte (cosa fa BYO3) → CTA chiara.",
+      "claims": "Solo claim conformi normativa integratori."
+    }
+  },
+
+  "anti_patterns": {
+    "do_not": [
+      "Promettere risultati rapidi",
+      "Usare il linguaggio medico per parlare di integratori nel consumer",
+      "Portare nel consumer i termini clinici delle schede interne (artrosi, cistiti, prostatite, IBS, disfunzione erettile)",
+      "Inserire testimonianze con claim terapeutici",
+      "Mostrare immagini cliniche o farmaceutiche nei contenuti consumer",
+      "Citare studi senza fonte e contesto",
+      "Confrontarsi direttamente con competitor",
+      "Usare paura come leva (es. 'attento o ti ammali', o usare le controindicazioni come spavento)",
+      "Citare letteralmente 'under promise, over deliver' nei testi pubblici",
+      "Usare 'antinfiammatorio' come promessa secca e assoluta nel consumer"
+    ]
+  },
+
+  "scientific_storytelling_assets": {
+    "note": "Asset narrativi fondati sulla scienza dei prodotti, utilizzabili per contenuti EDUCA/VALIDA. Vanno divulgati con tono accessibile nel consumer e possono essere approfonditi nel registro professionale.",
+    "ozoilab_technology": "OZOILAB® è olio di girasole (biologico) ozonizzato e stabilizzato. È l'ingrediente-firma trasversale a tutti e 5 i prodotti: il filo rosso narrativo del brand. Racconta una tecnologia, non un singolo benefico.",
+    "hormesis_ormesi": "L'ormesi è il concetto-chiave più potente e differenziante: uno stress lieve e controllato (qui, ozonidi a basse dosi) stimola le difese naturali del corpo (antiossidanti endogeni come SOD, catalasi, glutatione) rendendolo più resiliente. È la metafora perfetta della filosofia BYO3: non forzare il corpo, allenarlo dolcemente. Ottimo per contenuti educational. Nel consumer si spiega con parole semplici ('un piccolo stimolo che attiva le tue difese naturali'), nel professionale con i meccanismi.",
+    "synergy_stories": [
+      "Probiotic: olio ozonizzato + probiotici = l'ozono prepara l'ambiente intestinale e i probiotici colonizzano meglio (storia 'il terreno prima del seme').",
+      "Artiplus: approccio multi-target (antinfiammatorio + analgesico + strutturale + rigenerativo) invece del singolo ingrediente."
+    ],
+    "narrative_red_thread": "Tutti i prodotti condividono: olio di girasole ozonizzato (OZOILAB®), capsule, azione antiossidante e di ossigenazione tissutale, approccio graduale. Questo permette una narrazione di brand coerente che poi si declina per bisogno specifico."
+  }
+}

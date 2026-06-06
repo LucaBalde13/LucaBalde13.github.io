@@ -1,0 +1,36 @@
+---
+import "../styles/global.css";
+import siteScript from "../scripts/site.js?url";
+
+const {
+  title,
+  description,
+  ogTitle = title,
+  ogDescription = description,
+  ogType = "website",
+  ogImage = "/assets/pages/products-line-hero.webp",
+  schema = ""
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta property="og:title" content={ogTitle} />
+    <meta property="og:description" content={ogDescription} />
+    <meta property="og:type" content={ogType} />
+    {ogImage && <meta property="og:image" content={ogImage} />}
+    <meta name="theme-color" content="#082450" />
+    <link rel="icon" href="/assets/favicons/favicon-32.png" sizes="32x32" />
+    <link rel="apple-touch-icon" href="/assets/favicons/favicon.png" />
+    {schema && <script type="application/ld+json" set:html={schema} />}
+  </head>
+  <body>
+    <slot />
+    <script type="module" src={siteScript}></script>
+  </body>
+</html>

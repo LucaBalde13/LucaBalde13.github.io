@@ -1,0 +1,334 @@
+{
+  "profile_type": "offer_service_profile",
+  "brand": "BYO3",
+  "version": "1.1",
+  "last_updated": "2026-05-30",
+  "changelog": "v1.1 — Sostituiti tutti i TBD di composizione con i dati esatti da bugiardini (26 mag 2026): ingredienti, dosaggi per dose giornaliera, formato e grammatura capsule, posologia (2 capsule/giorno per tutti). Aggiunte avvertenze comuni (favismo/G6PD, gravidanza/allattamento) e allergene pesce in Artiplus. Aggiornati i differenziatori con il razionale scientifico (ormesi, sinergia ozono+probiotici, multi-target articolare). Aggiunta segnalazione discrepanza 'dispositivo medico vs integratore' su packaging Artiplus/Probiotic da chiarire. Prezzi restano TBD.",
+  "language": "italiano",
+  "brand_architecture_note": "BYO3 è il marchio ombrello commerciale (BYO3 ITALIA s.r.l., Via San Damiano 9, Milano). Ozoilab è la linea nutraceutica (5 SKU: Tonico, Donna, Uomo, Probiotic, Artiplus). OZOILAB® è anche il marchio dell'ingrediente-firma (olio di girasole ozonizzato stabilizzato) presente in tutti i prodotti. Jalo3 è la linea cosmetica anti-aging (fuori scope di questo profilo). OzonoSalute è il blog medico-editoriale che alimenta autorevolezza SEO ma non vende direttamente.",
+
+  "company_overview": {
+    "company_name": "BYO3 ITALIA s.r.l.",
+    "headquarters": "Via San Damiano, 9 - 20122 Milano",
+    "production_site": "Via Mazzini, 29/f - 37040 (Verona area)",
+    "country_of_origin": "Italia (Made in Italy)",
+    "core_technology": "OZOILAB® — olio di girasole (biologico) ozonizzato e stabilizzato, in capsule per uso orale. Tecnologia che porta gli ozonidi in una forma assumibile quotidianamente. Meccanismo di fondo: ormesi (stimolo ossidativo lieve e controllato che attiva le difese antiossidanti endogene: SOD, catalasi, glutatione), modulazione dello stato infiammatorio, azione antimicrobica, miglioramento di ossigenazione tissutale e microcircolazione.",
+    "category": "Nutraceutica premium, integratori alimentari",
+    "positioning": "Premium scientific Italian wellness — la nutraceutica italiana che porta in capsule la scienza dell'olio di girasole ozonizzato",
+    "core_differentiator": "Ingrediente-firma OZOILAB® comune a tutta la linea, abbinato a formulazioni specifiche per area di benessere. Made in Italy, ricerca con dossier scientifici per prodotto, supporto editoriale via OzonoSalute.",
+    "regulatory_flag": "DA CHIARIRE CON L'AZIENDA: i foglietti illustrativi descrivono i prodotti come 'integratore alimentare', ma su alcuni packaging/presentazioni (Artiplus, Probiotic) compare la dicitura 'DISPOSITIVO MEDICO CL.I — Reg. UE 2017/745'. Le due classificazioni hanno regole di claim molto diverse. Finché non chiarito, per la comunicazione consumer si adotta prudenzialmente il quadro più restrittivo (integratore alimentare)."
+  },
+
+  "common_product_facts": {
+    "signature_ingredient": "OZOILAB® (olio di girasole ozonizzato), presente in tutti e 5 i prodotti",
+    "format": "Capsule per uso orale, 60 capsule per confezione",
+    "posology_all_products": "2 capsule al giorno (dose massima giornaliera), con o senza cibo. Per Probiotic e Artiplus le schede consigliano preferibilmente il mattino. Confezione da 60 capsule = circa 30 giorni di assunzione.",
+    "packaging": "Pilloliera in vetro satinato blu con tappo in plastica + astuccio",
+    "common_mechanisms_ozoilab": [
+      "Contribuisce alla produzione endogena di antiossidanti",
+      "Modula lo stato infiammatorio",
+      "Migliora ossigenazione tissutale e microcircolazione",
+      "Azione antimicrobica"
+    ],
+    "warnings_common_to_all": [
+      "Controindicato in caso di deficit di G6PD / favismo (rischio di emolisi)",
+      "Non superare la dose raccomandata",
+      "Tenere fuori dalla portata dei bambini",
+      "Sconsigliato in gravidanza e allattamento senza consulto medico",
+      "Non sostituisce farmaci prescritti né una dieta varia ed equilibrata",
+      "Non indicato per curare malattie croniche, autoimmuni o infezioni gravi"
+    ],
+    "allergens": {
+      "artiplus": "Contiene PESCE (condroitina di origine ittica)",
+      "others": "Aroma menta microincapsulata in tutti; verificare singole sensibilità su foglietto"
+    }
+  },
+
+  "product_line_ozoilab": {
+
+    "tonico": {
+      "name": "BYO3 Tonico",
+      "english_payoff": "Ozone for Power",
+      "italian_descriptor": "Integratore alimentare — Supporto del tono fisico e mentale, contro la stanchezza quotidiana",
+      "core_promise": "Un supporto al tono fisico e mentale per le giornate e i periodi in cui il corpo chiede qualcosa in più, soprattutto nei cambi di stagione",
+      "approved_claims_from_label": [
+        "Supporto del tono fisico e mentale",
+        "Aiuta a contrastare la stanchezza quotidiana",
+        "Azione antiossidante",
+        "Favorisce l'ossigenazione tissutale e la circolazione"
+      ],
+      "key_ingredients": [
+        "OZOILAB® (olio di girasole ozonizzato)",
+        "Muira Puama (corteccia e.s.) — energizzante/stimolante neuro-muscolare",
+        "Damiana (foglie e.s.) — adattogeno, stress mentale e affaticamento",
+        "Guaranà (semi e.s. titolato 8% in caffeina) — attenzione, resistenza fisica",
+        "L-Glutatione ridotto (SETRIA®) — antiossidante/detossificante",
+        "Taurina"
+      ],
+      "characterizing_doses_note": "Dosi per 2 capsule. Confermate dalle titolazioni: Muira Puama 200 mg, Damiana 130 mg, Guaranà 80 mg, L-Glutatione 30 mg. Altri valori (Ozoilab, Taurina, caffeina effettiva) da rileggere su scheda tecnica per assenza di ambiguità OCR.",
+      "format": "60 capsule da 630 mg",
+      "posology": "2 capsule al giorno. Consigliato nei cambi di stagione. Preferibilmente al mattino (contiene caffeina).",
+      "caffeine_note": "Contiene caffeina (da Guaranà titolato 8%): segnalare a chi è sensibile; evitare assunzione serale.",
+      "target_sub_profile": "tonico (vedi ICP)",
+      "moments_of_use": [
+        "Cambi di stagione (autunno, primavera)",
+        "Rientri al lavoro dopo le vacanze",
+        "Periodi di stress fisico e mentale",
+        "Convalescenza / recupero post-virale",
+        "Recupero dopo attività fisica"
+      ],
+      "price": "TBD"
+    },
+
+    "donna": {
+      "name": "BYO3 Donna",
+      "english_payoff": "Ozone for Her Vitality",
+      "italian_descriptor": "Integratore alimentare — Supporto del tono fisico e mentale, aiuta l'equilibrio ormonale femminile",
+      "core_promise": "Un alleato quotidiano per accompagnare le fasi della vita femminile con più equilibrio: umore, energia, benessere uro-genitale",
+      "approved_claims_from_label": [
+        "Supporto del tono fisico e mentale",
+        "Aiuta l'equilibrio ormonale femminile",
+        "Contribuisce alla regolazione dell'umore, contrastando stress e ansia",
+        "Supporto al benessere uro-genitale",
+        "Azione antiossidante"
+      ],
+      "key_ingredients": [
+        "OZOILAB® (olio di girasole ozonizzato) — 84 mg",
+        "Magnesio ossido — 50 mg",
+        "L-Arginina — 20 mg",
+        "Estratto di polline purificato biologico — 40 mg",
+        "Griffonia simplicifolia (e.s. 20% idrossitriptofano / 5-HTP) — 20 mg (4 mg 5-HTP) — umore",
+        "Maca (radice e.s.) — 20 mg — tono/desiderio",
+        "Cordyceps Sinensis (e.s. 30% polisaccaridi) — energia/stress",
+        "Mirtillo rosso di palude / Cranberry (e.s. 1% proantocianidine OPC) — 60 mg — benessere uro-genitale",
+        "Schisandra (frutto e.s. 1% schisandrina) — 20 mg",
+        "Withania Somnifera / Ashwagandha (radice e.s. 2,5% withanolidi) — 20 mg — adattogeno"
+      ],
+      "characterizing_doses_note": "Dosi per 2 capsule come da bugiardino. Split esatto Maca/Cordyceps da riconfermare su scheda (OCR ambiguo su quei due valori).",
+      "format": "60 capsule da 510 mg",
+      "posology": "2 capsule al giorno, con o senza cibo.",
+      "target_sub_profile": "donna (vedi ICP)",
+      "moments_of_use": [
+        "Perimenopausa e menopausa",
+        "Sindrome premestruale / fasi di ciclo intenso",
+        "Periodi di sbalzi d'umore, ansia, insonnia",
+        "Cistiti e infezioni uro-genitali ricorrenti (contesto, non claim consumer)",
+        "Stanchezza e stress psico-fisico"
+      ],
+      "communication_caveats": "Linguaggio adulto, mai paternalistico, mai tabù. Tema uro-genitale e libido trattati con naturalezza. Nessuna sostituzione a terapia medica.",
+      "price": "TBD"
+    },
+
+    "uomo": {
+      "name": "BYO3 Uomo",
+      "english_payoff": "Ozone for His Vitality",
+      "italian_descriptor": "Integratore alimentare — Supporto del tono fisico e mentale, aiuta l'equilibrio ormonale maschile",
+      "core_promise": "Energia, resistenza, equilibrio ormonale e vitalità maschile come tema adulto, da trattare con serietà",
+      "approved_claims_from_label": [
+        "Supporto della funzionalità endocrina e dell'equilibrio ormonale maschile",
+        "Supporto del tono fisico e mentale",
+        "Supporto della funzione muscolare e delle prestazioni fisiche",
+        "Sostegno alla funzione sessuale maschile",
+        "Coadiuvante nella salute della prostata e delle vie urinarie",
+        "Azione antiossidante"
+      ],
+      "key_ingredients": [
+        "OZOILAB® (olio di girasole ozonizzato) — 84 mg",
+        "Magnesio ossido — 60 mg",
+        "L-Arginina — 20 mg, Ornitina — 20 mg, L-Citrullina — 20 mg (via dell'ossido nitrico → circolazione/performance)",
+        "Tribulus Terrestris (frutto e.s. 40% saponine) — 20 mg (8 mg saponine) — libido/ormoni",
+        "Maca (radice e.s.) — 20 mg",
+        "Cordyceps Sinensis (e.s. 30% polisaccaridi) — 20 mg (6 mg polisaccaridi) — energia/resistenza",
+        "Zinco citrato — 20 mg — testosterone/prostata",
+        "Vitamina D3 e Vitamina B12 (dosi da riconfermare su scheda)"
+      ],
+      "characterizing_doses_note": "Dosi per 2 capsule. Confermate da titolazioni: Tribulus 20 mg (8 mg saponine), Cordyceps 20 mg (6 mg polisaccaridi). Dosi precise di Vitamina D3 e B12 da rileggere su scheda tecnica (OCR ambiguo).",
+      "format": "60 capsule da 510 mg",
+      "posology": "2 capsule al giorno, con o senza cibo.",
+      "target_sub_profile": "uomo (vedi ICP)",
+      "moments_of_use": [
+        "Primi cali di vitalità verso i 45-50 (andropausa)",
+        "Recupero fisico/mentale dopo lavoro o sport",
+        "Routine di benessere maschile e prostatico",
+        "Periodi di forte stress"
+      ],
+      "communication_caveats": "Tono diretto e serio, mai goliardico né allusivo. Niente toni da spogliatoio. Libido/erezione/prostata si nominano con misura.",
+      "price": "TBD"
+    },
+
+    "probiotic": {
+      "name": "BYO3 Probiotic",
+      "english_payoff": "Ozonize Your Health",
+      "italian_descriptor": "Integratore alimentare — Aiuta il microbiota, favorisce il transito intestinale",
+      "core_promise": "Un sostegno quotidiano all'equilibrio del microbiota, con la sinergia ozono + probiotici come elemento differenziante",
+      "approved_claims_from_label": [
+        "Aiuta il microbiota",
+        "Favorisce il transito intestinale",
+        "Supporto dell'apparato digerente",
+        "Azione antiossidante"
+      ],
+      "key_ingredients": [
+        "Ecologic® 500 — mix di ceppi Bifidobacterium, Lactobacillus (e Lactococcus) — 260 mg — rinnovo/colonizzazione del microbiota",
+        "OZOILAB® (olio di girasole ozonizzato) — 84 mg — modula ambiente intestinale (redox, infiammazione, mucosa)",
+        "Lactobacillus acidophilus SGL 11 (100 mld ufc/g) — 60 mg — riduce gonfiore/flatulenza, supporta digestione",
+        "Agenti di supporto: amido di mais, cellulosa, sali di magnesio (anche funzione prebiotica/di supporto)"
+      ],
+      "characterizing_doses_note": "Dosi per 2 capsule, chiare da bugiardino: Ecologic 500 260 mg, OZOILAB 84 mg, L. acidophilus SGL11 60 mg.",
+      "format": "60 capsule da 510 mg",
+      "posology": "2 capsule al giorno, preferibilmente al mattino.",
+      "dietary_friendly": "Gluten-free e lactose-free friendly",
+      "unique_mechanism": "Sinergia olio ozonizzato + probiotici: l'ozono prepara/migliora l'ambiente intestinale (modulazione redox e infiammatoria, integrità mucosa) favorendo l'attecchimento dei probiotici. Razionale supportato dal dossier scientifico dedicato.",
+      "target_sub_profile": "probiotic (vedi ICP)",
+      "moments_of_use": [
+        "Dopo cicli di antibiotici (disbiosi)",
+        "Gonfiore e disturbi digestivi ricorrenti",
+        "Cambi di alimentazione (viaggi, festività)",
+        "Stress che si scarica sull'intestino",
+        "Routine quotidiana di benessere intestinale"
+      ],
+      "internal_only_indications": "USO INTERNO/PROFESSIONALE (non claim consumer): IBS/colon irritabile, disbiosi post-antibiotica, infiammazione intestinale lieve, malassorbimento.",
+      "price": "TBD"
+    },
+
+    "artiplus": {
+      "name": "BYO3 Artiplus",
+      "english_payoff": "Ozone for Mobility (anche 'Ozonize Your Mobility' su alcuni materiali)",
+      "italian_descriptor": "Integratore alimentare — Protezione e mantenimento della funzionalità osteoarticolare, supporto della mobilità articolare",
+      "core_promise": "Mantenere mobilità, elasticità e leggerezza articolare con un approccio multi-target naturale e graduale",
+      "approved_claims_from_label": [
+        "Protezione e mantenimento delle articolazioni (cartilagini, tessuti connettivi)",
+        "Supporto della mobilità articolare (elasticità e flessibilità)",
+        "Azione antinfiammatoria e antiossidante",
+        "Miglioramento della microcircolazione e dell'ossigenazione tissutale"
+      ],
+      "key_ingredients": [
+        "Glucosammina — 204 mg — supporto cartilagini",
+        "Condroitina (da PESCE) — 70 mg — idratazione/elasticità articolare",
+        "OZOILAB® (olio di girasole ozonizzato) — 100 mg",
+        "Boswellia serrata (resina e.s. 65% acido boswellico) — 30 mg (19,5 mg acido boswellico) — componente antinfiammatoria (inibitore 5-LOX)",
+        "Artiglio del diavolo (Harpagophytum, e.s. 1,5% arpagoside) — 30 mg — analgesico/antiflogistico (COX-2/TNF-α)",
+        "Collagene VERISOL® (tipo 1) — 30 mg — sostegno strutturale tendini/legamenti",
+        "Rame gluconato — 5 mg"
+      ],
+      "characterizing_doses_note": "Dosi per 2 capsule, confermate (acido boswellico 19,5 mg = 65% di Boswellia 30 mg). Nota: la grammatura capsula compare come 570 mg sul bugiardino e 500 mg su una slide della presentazione — da uniformare.",
+      "format": "60 capsule da 570 mg",
+      "posology": "2 capsule al giorno, con o senza cibo. Uso continuativo.",
+      "allergen": "CONTIENE PESCE (condroitina ittica) — dichiarare sempre.",
+      "unique_mechanism": "Formula multi-target: antinfiammatoria (Boswellia, Artiglio del diavolo, ozonidi), analgesica (fitocomposti + ozonidi), strutturale (collagene + condroitina + glucosammina), rigenerativa/redox (ozonidi, microcircolo). Contro il limite del singolo ingrediente dei prodotti comuni.",
+      "target_sub_profile": "artiplus (vedi ICP)",
+      "moments_of_use": [
+        "Rigidità articolare e primi segnali legati all'età",
+        "Stress muscolo-tendineo da attività sportiva",
+        "Recupero post-esercizio o post-infortunio (riabilitazione)",
+        "Stagione fredda"
+      ],
+      "internal_only_indications": "USO INTERNO/PROFESSIONALE (non claim consumer): osteoartrosi lieve, tendinopatie, artrite, borsiti, fasciti.",
+      "price": "TBD"
+    }
+  },
+
+  "unique_value_proposition": {
+    "headline": "Ozono in capsule per il benessere quotidiano — la ricerca italiana che entra nella tua routine",
+    "core_uvp_points": [
+      "OZOILAB®: olio di girasole ozonizzato stabilizzato, ingrediente-firma comune a tutta la linea",
+      "Meccanismo dell'ormesi: uno stimolo lieve che attiva le difese antiossidanti naturali del corpo",
+      "5 formulazioni multi-ingrediente specifiche per altrettanti bisogni del benessere",
+      "Capsule da assumere quotidianamente (2/giorno), approccio graduale mai d'urto",
+      "Made in Italy, dossier scientifici per prodotto, ecosistema editoriale OzonoSalute"
+    ],
+    "what_we_do_differently": "La maggior parte degli integratori gioca sulla promessa rapida e sul singolo ingrediente. BYO3 gioca sulla costanza, sulla sinergia multi-ingrediente attorno all'olio ozonizzato, e sulla coerenza tra ciò che promette e ciò che mantiene."
+  },
+
+  "transformation_promise": {
+    "from": "Una persona che sente segnali (stanchezza, gonfiore, rigidità, sbalzi, calo di vitalità), prova prodotti che non convincono, resta nel dubbio.",
+    "to": "Una persona che ha trovato una routine quotidiana semplice, basata su un brand italiano di cui si fida, e sente nelle settimane un miglioramento concreto e sostenibile del proprio benessere.",
+    "timeframe_realistic": "Beneficio percepito tipicamente nelle 4-8 settimane di assunzione regolare (per alcune aree, es. articolare, i dossier indicano 1-2 settimane sul sintomo). Comunicazione consumer: privilegiare sempre la finestra prudente e la costanza."
+  },
+
+  "pricing_and_positioning": {
+    "positioning": "Premium nutraceutica italiana",
+    "price_strategy_note": "Premium giustificato da ingrediente-firma OZOILAB®, formule multi-ingrediente, qualità delle materie prime (es. Collagene Verisol®, L-Glutatione Setria®, Ecologic 500), made in Italy e dossier scientifici. Il prezzo compete sul valore, non sul basso.",
+    "individual_product_prices": "TBD — da definire prima del lancio della comunicazione conversion",
+    "bundle_pricing": "TBD — possibili bundle per bisogno (es. Uomo+Tonico, Donna+Probiotic)",
+    "subscribe_and_save_model": {
+      "status": "In roadmap per Ozoilab. Coerente con formato 60 capsule = ~30 giorni (ritmo mensile naturale).",
+      "logic_proposed": "Sconto sull'abbonamento mensile per costruire ritualità d'uso e LTV. Pricing e percentuali TBD."
+    },
+    "comparable_market_benchmarks": "TBD — da raccogliere prima del lancio paid"
+  },
+
+  "sales_channels": {
+    "primary": {
+      "channel": "E-commerce BYO3.it (in fase di rifacimento)",
+      "role": "Hub principale di vendita, owned channel, primo punto di conversione di tutta la comunicazione",
+      "expected_share_of_revenue": "Maggioritario, percentuale da definire post-lancio"
+    },
+    "secondary_excluded_or_tbd": {
+      "farmacia_fisica": "Da valutare in roadmap futura (il prodotto ha un razionale forte per il canale farmacia/consiglio)",
+      "amazon": "Non strategico per il posizionamento premium-owned",
+      "marketplace_terzi": "Non strategici nel breve periodo"
+    },
+    "cross_sell_with_jalo3": "Possibile sinergia futura sul sito BYO3 con redirect a Jalo3.it per il pubblico cosmetico"
+  },
+
+  "differentiators_vs_competition": [
+    "OZOILAB® (olio di girasole ozonizzato) come unique mechanism, raro in capsule orali",
+    "Meccanismo dell'ormesi come storia scientifica differenziante",
+    "Formule multi-target/multi-ingrediente invece del singolo principio attivo",
+    "Sinergia documentata ozono + probiotici (Probiotic) e approccio multi-target articolare (Artiplus)",
+    "Materie prime brandizzate di qualità (Verisol®, Setria®, Ecologic 500)",
+    "Brand italiano con sito produttivo e dossier scientifici tracciabili",
+    "Ecosistema content (OzonoSalute, Parla con l'esperto) che costruisce autorevolezza",
+    "Filosofia di comunicazione coerente (under-promise-over-deliver, mai citata)"
+  ],
+
+  "key_objections_and_responses": {
+    "funziona_davvero": {
+      "objection": "Funzionano davvero gli integratori a base di ozono?",
+      "response_angle": "Spiegare l'ormesi e la stabilizzazione dell'ozono in olio di girasole; distinguere ozonoterapia medicale (OzonoSalute) da integratore (BYO3). Rimandare ai dossier."
+    },
+    "tempi": {
+      "objection": "Quanto tempo prima di sentirne i benefici?",
+      "response_angle": "Onestà: 4-8 settimane di costanza (più rapido su alcuni sintomi). Nessuna scossa istantanea."
+    },
+    "prezzo": {
+      "objection": "Il prezzo è alto, vale la pena?",
+      "response_angle": "Valore: ingrediente-firma, materie prime brandizzate, formule complete, made in Italy. Costo per giorno, non per confezione."
+    },
+    "differenza_competitor": {
+      "objection": "Cos'ha di diverso dagli altri integratori?",
+      "response_angle": "OZOILAB® + formule multi-target + ecosistema scientifico. Non un ingrediente solo: un sistema."
+    },
+    "compatibilita_farmaci_e_sicurezza": {
+      "objection": "Posso prenderlo se prendo già altri farmaci / ho allergie?",
+      "response_angle": "Rimandare sempre a foglietto, 'Parla con l'esperto' e medico. Segnalare favismo/G6PD e allergene pesce (Artiplus). Mai dare consigli medici nei post."
+    }
+  },
+
+  "ideal_customer_journey": {
+    "awareness": "EDUCA su ozono, ormesi, microbiota, stress ossidativo, mobilità (Instagram, FB, blog OzonoSalute, LinkedIn)",
+    "consideration": "VALIDA con ricerca, tecnologia OZOILAB®, dossier, dietro le quinte, recensioni qualificate",
+    "decision": "Pagina prodotto BYO3.it, contenuti ATTIVA con CTA chiara, Parla con l'esperto",
+    "retention_loyalty": "CONNETTI per community, Subscribe & Save quando attivo, ritualità d'uso"
+  },
+
+  "not_for": [
+    "Persone in cerca di soluzioni dimagranti rapide",
+    "Pubblico under 30 generalista",
+    "Chi cerca claim 'magici' o garanzie rapide",
+    "Persone con patologie acute (rimandare al medico)",
+    "Chi vuole un sostituto della terapia medica",
+    "Persone con favismo/deficit G6PD; Artiplus: allergici al pesce"
+  ],
+
+  "open_data_points_to_close": [
+    "Prezzi al pubblico definitivi dei 5 prodotti e logica bundle",
+    "Dosi residue ambigue all'OCR: Tonico (Ozoilab, Taurina, caffeina effettiva); Donna (split Maca/Cordyceps); Uomo (Vitamina D3 e B12)",
+    "Uniformare grammatura Artiplus (570 mg bugiardino vs 500 mg slide)",
+    "Chiarire classificazione Artiplus/Probiotic: integratore alimentare vs dispositivo medico CL.I",
+    "Conta CFU dichiarata dei ceppi del Probiotic (oltre ai mg)",
+    "Lancio Subscribe & Save: data, sconto, formato",
+    "Confronto competitor con dati di mercato",
+    "Eventuali studi clinici proprietari citabili oltre alla letteratura nei dossier"
+  ]
+}

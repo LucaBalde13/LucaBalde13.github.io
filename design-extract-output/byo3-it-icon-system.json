@@ -1,0 +1,67 @@
+{
+  "library": "unknown",
+  "confidence": 0,
+  "alternates": [],
+  "stats": {
+    "count": 8,
+    "strokeOnly": 0,
+    "fillOnly": 8,
+    "mixed": 0,
+    "avgStrokeWidth": 4,
+    "gridDistribution": {},
+    "roundedCapsFraction": 0.13
+  },
+  "signals": [
+    "fillDominant"
+  ],
+  "icons": [
+    {
+      "class": "e-font-icon-svg e-far-user",
+      "grid": null,
+      "strokeWidth": null,
+      "style": "fill"
+    },
+    {
+      "class": "e-font-icon-svg e-fas-shopping-cart",
+      "grid": null,
+      "strokeWidth": null,
+      "style": "fill"
+    },
+    {
+      "class": "",
+      "grid": null,
+      "strokeWidth": null,
+      "style": "fill"
+    },
+    {
+      "class": "",
+      "grid": null,
+      "strokeWidth": 4,
+      "style": "fill"
+    },
+    {
+      "class": "e-font-icon-svg e-fas-arrow-right",
+      "grid": null,
+      "strokeWidth": null,
+      "style": "fill"
+    },
+    {
+      "class": "e-font-icon-svg e-fab-facebook-f",
+      "grid": null,
+      "strokeWidth": null,
+      "style": "fill"
+    },
+    {
+      "class": "",
+      "grid": null,
+      "strokeWidth": null,
+      "style": "fill"
+    },
+    {
+      "class": "e-font-icon-svg e-fab-linkedin",
+      "grid": null,
+      "strokeWidth": null,
+      "style": "fill"
+    }
+  ]
+}

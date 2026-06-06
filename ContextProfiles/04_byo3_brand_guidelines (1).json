@@ -1,0 +1,577 @@
+{
+  "profile_type": "brand_guidelines",
+  "brand": "BYO3",
+  "version": "1.0",
+  "last_updated": "2026-05-27",
+  "language": "italiano",
+  "status": "working_context_file_for_social_media_website_and_creative_direction",
+  "strategic_summary": {
+    "one_line_direction": "BYO3 deve apparire come un brand italiano di nutraceutica scientifica premium che spiega l'ozono in capsule con chiarezza, sobrietà e sicurezza editoriale.",
+    "core_positioning": "Premium scientific Italian wellness: tecnologia nutraceutica italiana a base di olio di girasole ozonizzato e stabilizzato in capsule gastroresistenti, comunicata senza hype e senza claim terapeutici.",
+    "creative_formula": "Look like science. Speak like a human. Never sound like hype.",
+    "category_role": "Diventare il riferimento educativo per capire l'ozono in capsule: cosa è, cosa non è, perché è diverso, perché richiede costanza.",
+    "fixed_assets": [
+      "Logo BYO3 già stampato sulle etichette: da mantenere invariato",
+      "Nome BYO3: da mantenere invariato",
+      "Territorio concettuale dell'ozono, della ricerca italiana e della nutraceutica premium: da preservare"
+    ],
+    "changeable_assets": [
+      "Palette cromatica estesa",
+      "Sistema tipografico social e web",
+      "Layout social",
+      "Stile fotografico",
+      "Iconografia",
+      "Art direction generale",
+      "Sistema editoriale dei contenuti"
+    ]
+  },
+  "brand_personality": {
+    "primary_traits": [
+      "Scientifico ma non freddo",
+      "Premium ma non distante",
+      "Diretto ma non aggressivo",
+      "Italiano ma contemporaneo",
+      "Educativo ma non scolastico",
+      "Sicuro ma non arrogante",
+      "Sobrio ma memorabile"
+    ],
+    "hybrid_reference_model": {
+      "thorne_influence": "Porta credibilità scientifica, ordine visivo, tono premium, pulizia, precisione, rispetto per il lettore e gerarchia informativa.",
+      "hims_hers_influence": "Porta hook diretti, linguaggio umano, capacità di normalizzare dubbi e scetticismo, statement editoriali forti e immediati.",
+      "uploaded_carousel_influence": "Porta cinematicità, sofisticazione visiva, grandi titoli editoriali, pannelli traslucidi e sequenze educative ad alta percezione di valore.",
+      "byo3_adaptation": "BYO3 deve prendere la sofisticazione, non la formula identica. Deve essere più chiaro, più ossigenato, più nutraceutico e meno clinico-diagnostico."
+    },
+    "brand_archetype_mix": {
+      "sage": "Spiega, chiarisce, distingue, educa e costruisce fiducia attraverso conoscenza accessibile.",
+      "caregiver": "Accompagna il lettore senza paternalismo, con linguaggio rispettoso e attenzione ai dubbi reali.",
+      "creator": "Rende un tema complesso visivamente interessante, moderno e riconoscibile."
+    }
+  },
+  "visual_identity_direction": {
+    "overall_feeling": "Airy scientific editorial. La marca deve respirare: più luce, più spazio, più ordine, più precisione. L'effetto finale deve essere premium e contemporaneo, ma non ospedaliero.",
+    "visual_keywords": [
+      "ossigeno",
+      "aria",
+      "luce",
+      "capsula",
+      "goccia d'olio",
+      "molecola",
+      "stabilità",
+      "ricerca italiana",
+      "routine quotidiana",
+      "equilibrio",
+      "tecnologia nutraceutica"
+    ],
+    "what_it_should_look_like": [
+      "Feed pulito, ordinato, con alternanza tra post editoriali e post scientifici",
+      "Layout con molto spazio bianco o blu-grigio pallido",
+      "Titoli grandi e diretti, con copy secondario breve e leggibile",
+      "Elementi molecolari e linee sottili usati come sistema grafico ricorrente",
+      "Fotografie luminose, premium, non eccessivamente patinate",
+      "Pannelli traslucidi molto sottili, meno pesanti e meno clinici rispetto ai reference caricati",
+      "Logo BYO3 discreto, mai invadente"
+    ],
+    "what_it_should_not_look_like": [
+      "Generic supplement brand con bottiglie ovunque",
+      "Medical clinic o laboratorio ospedaliero",
+      "Biohacking aggressivo",
+      "Detox/cleanse lifestyle",
+      "Fitness performance brand",
+      "Farmaceutico freddo e impersonale",
+      "Brand new-age o olistico senza base scientifica"
+    ]
+  },
+  "color_system": {
+    "principle": "La palette deve partire dal mondo BYO3 esistente, ma aggiornarlo verso un sistema più premium, editoriale e digitale. Il blu resta il colore di fiducia e scienza; va affiancato da neutri caldi e grigi ossigenati.",
+    "recommended_palette": {
+      "deep_ozone_navy": {
+        "hex": "#071A2A",
+        "role": "Post premium, cover forti, elementi di contrasto, fondi scuri usati con parsimonia"
+      },
+      "byo3_science_blue": {
+        "hex": "#2C7FA3",
+        "role": "Accent principale, linee, icone, micro-elementi molecolari, link e dettagli"
+      },
+      "oxygen_blue_grey": {
+        "hex": "#D9E7EC",
+        "role": "Fondi chiari scientifici, carousel educativi, texture leggere"
+      },
+      "warm_scientific_white": {
+        "hex": "#F7F4EF",
+        "role": "Fondo principale per statement editoriali, caption card, contenuti di lancio"
+      },
+      "soft_stone": {
+        "hex": "#D8D2C8",
+        "role": "Neutro premium per post lifestyle e pannelli"
+      },
+      "clinical_graphite": {
+        "hex": "#2B3033",
+        "role": "Testi, titoli, dark posts, contrasto sobrio"
+      },
+      "ozone_light": {
+        "hex": "#EEF6F8",
+        "role": "Fondi secondari e aree di respiro"
+      }
+    },
+    "usage_ratio": {
+      "light_and_airy": "60%",
+      "science_blue_grey": "25%",
+      "dark_premium": "15%"
+    },
+    "avoid": [
+      "Verdi naturali troppo erboristici",
+      "Arancioni vitaminici",
+      "Colori neon da biohacking",
+      "Neri troppo dominanti per tutto il feed",
+      "Gradienti eccessivamente tecnologici o crypto-like"
+    ]
+  },
+  "typography_direction": {
+    "principle": "La tipografia deve comunicare autorità e chiarezza. Può essere editoriale e bold, ma non deve copiare l'identità ultra-condensed dei carousel reference se quella è già associata a un altro brand.",
+    "headline_style": {
+      "description": "Titoli grandi, netti, editoriali. Preferire sans moderne leggermente condensate o grotesk premium, con tracking controllato e grande leggibilità.",
+      "tone": "Bold Hims/Hers nell'impatto, Thorne nella pulizia.",
+      "example_use": "Ozono in capsule. Non ozonoterapia."
+    },
+    "body_style": {
+      "description": "Testo breve, leggibile, con interlinea generosa. Evitare blocchi lunghi sui visual; spostare il ragionamento più esteso in caption.",
+      "max_visual_copy_guideline": "Una slide social non dovrebbe superare 35-45 parole, salvo slide tecniche strutturate in punti."
+    },
+    "accent_style": {
+      "description": "Possibile uso di un serif elegante o italic leggero per frasi di chiusura, ma solo come dettaglio. Non deve diventare il linguaggio dominante.",
+      "use_cases": [
+        "Frasi di chiusura",
+        "Micro-payoff",
+        "Note editoriali"
+      ]
+    },
+    "typographic_avoid": [
+      "Font troppo farmaceutici o burocratici",
+      "Font wellness morbidi e generici",
+      "Script decorativi",
+      "Tutto maiuscolo su paragrafi lunghi",
+      "Stile identico agli altri carousel già creati per altri brand"
+    ]
+  },
+  "logo_usage": {
+    "fixed_rule": "Usare solo il logo BYO3 come marca principale nei contenuti social di lancio. Non usare Ozoilab come lockup principale nella prima fase, salvo necessità legale o prodotto-specifica futura.",
+    "recommended_usage": [
+      "Logo piccolo in basso a destra o in alto a sinistra",
+      "Logo monocromatico su fondi chiari o scuri",
+      "Logo presente ma non dominante",
+      "Nessun grande lockup fisso in basso su ogni slide"
+    ],
+    "avoid": [
+      "Logo troppo grande",
+      "Logo ripetuto su ogni elemento grafico",
+      "Lockup in stile clinica o istituto medico",
+      "Uso di più brand names nella stessa creatività di awareness"
+    ]
+  },
+  "photography_and_imagery": {
+    "photographic_style": "Fotografia premium, naturale, luminosa, con taglio editoriale. Deve sembrare un magazine scientifico-wellness, non uno stock generico e non una campagna farmaceutica.",
+    "preferred_subjects": [
+      "Morning routine sobria e adulta",
+      "Mani, acqua, luce naturale, tavoli chiari",
+      "Capsule senza packaging troppo evidente nella prima fase",
+      "Gocce d'olio, texture traslucide, vetro, ombre morbide",
+      "Persone adulte 35-65 in contesti realistici e premium",
+      "Dettagli scientifici astratti: molecole, cellule, capsule, micro-texture",
+      "Laboratorio suggerito attraverso oggetti, non ambienti ospedalieri"
+    ],
+    "image_mood": [
+      "Luce mattutina",
+      "Aria e spazio",
+      "Contrasti morbidi",
+      "Pelle naturale",
+      "Ordine e precisione",
+      "Calma adulta"
+    ],
+    "avoid_imagery": [
+      "Persone malate, ospedali, camici, lettini medici",
+      "Drammatizzazione della sofferenza",
+      "Prima e dopo fisici",
+      "Fitness estremo",
+      "Detox con limoni, frullati o cliché wellness",
+      "Stock photo sorridenti e artificiali",
+      "Dark clinic look troppo simile ai reference caricati"
+    ]
+  },
+  "graphic_system": {
+    "recurring_elements": [
+      "Linee sottili blu o graphite",
+      "Numerazione slide discreta: 01 | LE BASI, 02 | IL MECCANISMO, 03 | LA TECNOLOGIA",
+      "Micro-diagrammi molecolari",
+      "Cerchi a tre atomi come riferimento implicito all'ozono",
+      "Capsule outline",
+      "Pannelli traslucidi con bordo sottile",
+      "Texture molto leggere di aria, olio o vetro"
+    ],
+    "layout_principles": [
+      "Gerarchia chiara: hook grande, spiegazione breve, dettaglio scientifico opzionale",
+      "Molto margine esterno",
+      "Massimo 2 livelli informativi per slide",
+      "Non riempire tutto: il premium nasce anche dal vuoto",
+      "Alternare post tipografici, lifestyle e scientifici per evitare monotonia"
+    ],
+    "carousel_panel_style": {
+      "use": "Pannelli traslucidi sì, ma più sottili, più chiari e meno drammatici rispetto al reference Wellspring.",
+      "backgrounds": "Preferire warm white, oxygen blue grey e fotografie luminose. Usare deep navy solo per slide tecniche o statement forti.",
+      "border": "Bordo 1px o 1.5px, blu-grigio o bianco trasparente.",
+      "radius": "Raggio moderato, non troppo app-like."
+    }
+  },
+  "brand_voice_integration": {
+    "voice_rule": "La voce deve rimanere autorevole ma accessibile. In visual, può essere più bold; in caption, deve tornare esplicativa e prudente.",
+    "signature_phrases": [
+      "Ozono in capsule, spiegato bene.",
+      "Non promette miracoli. Promette costanza.",
+      "Hai ragione a essere scettico.",
+      "Non ozonoterapia. Nutraceutica.",
+      "Prima capire. Poi scegliere.",
+      "La scienza non ha bisogno di urlare.",
+      "Un supporto quotidiano, non una promessa lampo."
+    ],
+    "words_to_keep_close": [
+      "supporto",
+      "equilibrio",
+      "quotidiano",
+      "graduale",
+      "ricerca",
+      "tecnologia patentata",
+      "stabilizzato",
+      "capsule gastroresistenti",
+      "nutraceutica",
+      "benessere"
+    ],
+    "words_to_keep_out": [
+      "cura",
+      "guarisce",
+      "tratta",
+      "elimina",
+      "risolve",
+      "miracolo",
+      "detox",
+      "shock",
+      "potente",
+      "garantito",
+      "subito",
+      "biohack",
+      "segreto"
+    ]
+  },
+  "compliance_and_claims": {
+    "core_rule": "BYO3 comunica integratori alimentari, non cure mediche. Ogni visual, caption, landing page o script deve evitare promesse terapeutiche, diagnosi, prevenzione di patologie o equivalenza con ozonoterapia medica.",
+    "ozonotherapy_separation": "Distinguere sempre tra ozonoterapia medicale e tecnologia nutraceutica in capsule. BYO3 può educare sul concetto di ozono, ma non deve appropriarsi dei benefici clinici dell'ozonoterapia.",
+    "safe_claim_language": [
+      "supporta",
+      "favorisce",
+      "contribuisce a",
+      "aiuta",
+      "accompagna",
+      "pensato per",
+      "può essere inserito in una routine"
+    ],
+    "unsafe_claim_language": [
+      "cura",
+      "previene",
+      "tratta",
+      "guarisce",
+      "elimina il problema",
+      "risultati garantiti",
+      "sostituisce una terapia",
+      "effetto immediato"
+    ],
+    "medical_advice_rule": "Per farmaci, patologie, gravidanza, condizioni mediche o dubbi clinici, rimandare sempre al medico, farmacista o canale esperto autorizzato. Non rispondere con consigli medici personalizzati sui social."
+  },
+  "feed_identity": {
+    "first_phase_objective": "Costruire fiducia, educazione e riconoscibilità prima della vendita. Il sito e-commerce non è ancora pronto, quindi la comunicazione deve generare follow, salvataggi, commenti e familiarità con il concetto di ozono in capsule.",
+    "grid_feeling": "Il feed deve sembrare una serie educativa controllata, non una raccolta casuale di post. Ogni contenuto deve contribuire a posizionare BYO3 come brand chiaro, serio e moderno.",
+    "recommended_post_mix_first_month": {
+      "education_carousels": "45%",
+      "bold_editorial_single_posts": "25%",
+      "technology_and_mechanism_posts": "20%",
+      "brand_story_and_italian_research_posts": "10%"
+    },
+    "visual_alternation": [
+      "Post chiaro editoriale",
+      "Carousel scientifico blu-grigio",
+      "Post statement bold",
+      "Carousel lifestyle educativo",
+      "Post tecnico premium"
+    ]
+  },
+  "competitive_content_analysis": {
+    "purpose": "Sintetizzare ciò che funziona nei principali brand wellness e supplement osservati, traducendolo in regole operative per BYO3. Questa sezione non serve a copiare i competitor, ma a rendere chiaro quali meccanismi creativi, editoriali e strategici devono essere adattati al mondo BYO3.",
+    "source_brands_analyzed": [
+      "Thorne Health",
+      "Hims",
+      "Hers",
+      "AG1 / DrinkAG1",
+      "Ritual",
+      "Huel",
+      "ARMRA",
+      "Bloom",
+      "IM8 Health"
+    ],
+    "high_level_learning": "I migliori brand del settore non vendono semplicemente integratori: costruiscono una categoria mentale. AG1 possiede la routine foundational health, Ritual possiede trasparenza e tracciabilità, Huel possiede convenienza funzionale, ARMRA possiede colostro e immunità percepita, Thorne possiede autorevolezza scientifica premium, Hims e Hers possiedono il linguaggio diretto e normalizzante su temi di salute adulti. BYO3 deve costruire il proprio territorio: ozono in capsule spiegato bene, senza hype e senza confusione con l'ozonoterapia medicale.",
+    "brand_by_brand_takeaways": {
+      "thorne_health": {
+        "what_works": [
+          "Estetica scientifica premium, ordinata e autorevole",
+          "Uso di layout puliti, molto spazio negativo e gerarchie chiare",
+          "Tono esperto, sobrio e non sensazionalistico",
+          "Contenuti che fanno percepire il corpo come un sistema complesso, non come una lista di problemi",
+          "Credibilità costruita attraverso precisione, non attraverso urgenza"
+        ],
+        "what_byo3_should_replicate": [
+          "Pulizia visiva e percezione scientifica elevata",
+          "Carousel educativi con logica progressiva e ben strutturata",
+          "Linguaggio preciso, misurato e orientato al meccanismo",
+          "Palette fredda/premium bilanciata da neutri caldi",
+          "Focus su tecnologia, qualità formulativa e ricerca"
+        ],
+        "what_byo3_should_avoid": [
+          "Diventare troppo freddo, tecnico o distante",
+          "Usare un linguaggio troppo clinico per un pubblico consumer",
+          "Creare contenuti così sobri da perdere impatto social"
+        ],
+        "byo3_adaptation_rule": "Usare Thorne come riferimento per autorevolezza e struttura, ma rendere BYO3 più umano, più esplicativo e più accessibile fin dalla prima slide."
+      },
+      "hims_and_hers": {
+        "what_works": [
+          "Hook editoriali molto diretti e memorabili",
+          "Capacità di normalizzare dubbi, imbarazzi e scetticismo",
+          "Linguaggio semplice, umano e adulto",
+          "Visual minimal con statement forti",
+          "Contenuti che sembrano parlare a una persona reale, non a un segmento astratto"
+        ],
+        "what_byo3_should_replicate": [
+          "Statement bold come 'Hai ragione a essere scettico' e 'Non promette miracoli'",
+          "Uso di frasi brevi e forti per aprire conversazioni",
+          "Validazione delle obiezioni del pubblico invece di ignorarle",
+          "Approccio editoriale che rende temi complessi più facili da affrontare"
+        ],
+        "what_byo3_should_avoid": [
+          "Essere troppo provocatorio o ironico",
+          "Importare un tono troppo americano o troppo pop",
+          "Semplificare eccessivamente temi scientifici fino a renderli superficiali"
+        ],
+        "byo3_adaptation_rule": "Prendere la chiarezza e il coraggio editoriale di Hims/Hers, ma applicarli a una voce italiana più sobria, scientifica e premium."
+      },
+      "ag1_drinkag1": {
+        "what_works": [
+          "Costruzione del prodotto come rituale quotidiano",
+          "Educazione continua prima della vendita",
+          "Associazione tra routine, costanza e benessere generale",
+          "Uso di creator, community e testimonianze come prova sociale",
+          "Narrazione del prodotto come foundational support, non come soluzione singola"
+        ],
+        "what_byo3_should_replicate": [
+          "Framing della costanza quotidiana",
+          "Contenuti che spiegano prima di vendere",
+          "Linguaggio di routine e supporto graduale",
+          "Idea di serie educativa continuativa"
+        ],
+        "what_byo3_should_avoid": [
+          "Promesse troppo ampie sul benessere totale",
+          "Claim che sembrano trasformativi o universali",
+          "Dipendere troppo da ambassador prima di avere una categoria ben spiegata"
+        ],
+        "byo3_adaptation_rule": "Usare il modello 'daily ritual' solo in modo prudente: BYO3 è un supporto nutraceutico quotidiano, non un prodotto che promette di coprire ogni bisogno di salute."
+      },
+      "ritual": {
+        "what_works": [
+          "Trasparenza radicale su ingredienti, origine e formulazione",
+          "Estetica chiara, minimal e molto riconoscibile",
+          "Educazione del consumatore attraverso semplicità visiva",
+          "Uso della tracciabilità come leva di fiducia"
+        ],
+        "what_byo3_should_replicate": [
+          "Chiarezza su olio di girasole ozonizzato e stabilizzato",
+          "Spiegazione della capsula gastroresistente e della tecnologia patentata",
+          "Riduzione della complessità scientifica in moduli semplici",
+          "Promessa di trasparenza prima della promessa di beneficio"
+        ],
+        "what_byo3_should_avoid": [
+          "Diventare troppo minimal al punto da perdere differenziazione",
+          "Usare un'estetica troppo femminile se il brand vuole restare trasversale",
+          "Semplificare il tema ozono fino a farlo sembrare generico"
+        ],
+        "byo3_adaptation_rule": "Applicare il principio di trasparenza di Ritual al mondo ozono: spiegare cosa è, cosa non è, come viene stabilizzato e perché la formulazione conta."
+      },
+      "huel": {
+        "what_works": [
+          "Chiarezza funzionale e use case immediato",
+          "Comunicazione pratica, razionale e orientata alla vita quotidiana",
+          "Forte collegamento tra prodotto e routine moderna",
+          "Messaggi semplici su quando e perché usare il prodotto"
+        ],
+        "what_byo3_should_replicate": [
+          "Chiarezza d'uso e contesto quotidiano",
+          "Contenuti che mostrano dove BYO3 entra nella routine",
+          "Copy diretto e razionale, non eccessivamente emozionale"
+        ],
+        "what_byo3_should_avoid": [
+          "Tono troppo utilitaristico o meal-replacement",
+          "Ridurre BYO3 a un semplice prodotto di comodità",
+          "Perdere la dimensione scientifica e premium"
+        ],
+        "byo3_adaptation_rule": "Usare la praticità di Huel per spiegare il ruolo quotidiano di BYO3, mantenendo però una percezione più premium, scientifica e nutraceutica."
+      },
+      "armra": {
+        "what_works": [
+          "Possesso chiaro di una categoria ingrediente-specifica",
+          "Educazione ripetuta su un ingrediente poco mainstream",
+          "Narrazione di una tecnologia o sostanza come differenza chiave",
+          "Contenuti che creano curiosità intorno a un concetto nuovo"
+        ],
+        "what_byo3_should_replicate": [
+          "Costruzione della categoria 'ozono in capsule'",
+          "Ripetizione educativa dei concetti base senza paura di sembrare ridondanti",
+          "Enfasi sulla differenza tecnologica e formulativa"
+        ],
+        "what_byo3_should_avoid": [
+          "Claim immunitari o funzionali troppo forti",
+          "Estetica troppo trendy o aggressivamente wellness",
+          "Far sembrare l'ozono una moda invece che una tecnologia nutraceutica"
+        ],
+        "byo3_adaptation_rule": "Imparare da ARMRA la costruzione di una categoria nuova, ma mantenere BYO3 più sobrio, italiano e regolato nei claim."
+      },
+      "bloom": {
+        "what_works": [
+          "Contenuti molto social-native e facilmente condivisibili",
+          "Estetica riconoscibile, colorata e lifestyle",
+          "Hook semplici su benessere, routine e risultati percepiti",
+          "Capacità di generare UGC e conversazioni leggere"
+        ],
+        "what_byo3_should_replicate": [
+          "Formati saveable e condivisibili",
+          "Semplicità dei concetti su carousel e post singoli",
+          "CTA leggere e orientate all'interazione"
+        ],
+        "what_byo3_should_avoid": [
+          "Palette troppo bright o candy-like",
+          "Tono troppo influencer-led",
+          "Promesse estetiche o digestive troppo immediate",
+          "Look troppo giovane o poco scientifico"
+        ],
+        "byo3_adaptation_rule": "Prendere da Bloom la facilità di fruizione social, ma non la sua estetica o promessa lifestyle più trendy."
+      },
+      "im8_health": {
+        "what_works": [
+          "Posizionamento premium e aspirazionale nel mondo healthspan",
+          "Associazione tra scienza, performance quotidiana e longevità percepita",
+          "Uso di visual moderni e alto valore produttivo",
+          "Categoria health/wellness raccontata con ambizione"
+        ],
+        "what_byo3_should_replicate": [
+          "Percezione premium e moderna",
+          "Ambizione di brand serio e contemporaneo",
+          "Contenuti che parlano a un pubblico adulto interessato alla prevenzione del benessere, senza usare claim medici"
+        ],
+        "what_byo3_should_avoid": [
+          "Tono troppo celebrity o status-driven",
+          "Promesse troppo ampie su energia, longevità o performance",
+          "Estetica troppo internazionale se indebolisce il carattere italiano di BYO3"
+        ],
+        "byo3_adaptation_rule": "Prendere l'aspirazione premium di IM8, ma radicare BYO3 in ricerca italiana, chiarezza e nutraceutica spiegata bene."
+      }
+    },
+    "cross_brand_patterns_that_work": [
+      {
+        "pattern": "Category ownership",
+        "description": "I brand migliori non competono solo su ingredienti o prezzo: possiedono una categoria mentale. BYO3 deve possedere 'ozono in capsule spiegato bene'."
+      },
+      {
+        "pattern": "Education before selling",
+        "description": "Prima di chiedere acquisto o fiducia, i brand forti spiegano il perché del prodotto. Questo è essenziale per BYO3 perché l'ozono in capsule richiede contesto."
+      },
+      {
+        "pattern": "Strong hook, calm explanation",
+        "description": "La copertina può essere audace e memorabile; la spiegazione deve essere prudente, chiara e responsabile."
+      },
+      {
+        "pattern": "Routine framing",
+        "description": "Il prodotto viene inserito nella vita quotidiana, non presentato come evento eccezionale o soluzione d'urto."
+      },
+      {
+        "pattern": "Transparency as trust",
+        "description": "Ingredienti, tecnologia, limiti e differenze devono essere spiegati apertamente, soprattutto per evitare confusione con l'ozonoterapia medicale."
+      },
+      {
+        "pattern": "Saveable formats",
+        "description": "Carousel con definizioni, differenze, miti, glossari e meccanismi generano più valore nel tempo rispetto a post puramente estetici."
+      },
+      {
+        "pattern": "Anti-hype positioning",
+        "description": "Nel mercato integratori, promettere meno ma spiegare meglio può diventare una forte differenziazione."
+      }
+    ],
+    "strategies_to_replicate_for_byo3": [
+      "Aprire i contenuti con hook editoriali forti ma non sensazionalistici",
+      "Costruire una serie educativa ricorrente sull'ozono in capsule",
+      "Usare carousels come mini-lezioni visive, non come brochure prodotto",
+      "Alternare contenuti di chiarezza, fiducia, tecnologia e routine",
+      "Validare lo scetticismo dell'ICP invece di trattarlo come obiezione da superare aggressivamente",
+      "Usare design premium per aumentare la percezione di serietà",
+      "Mantenere sempre separati nutraceutica e ozonoterapia medicale",
+      "Far percepire la tecnologia come differenza principale, non il claim come differenza principale",
+      "Scrivere caption più esplicative rispetto ai visual, così le slide restano leggere e leggibili",
+      "Ripetere i concetti chiave con angolazioni diverse: stabilizzazione, capsule gastroresistenti, supporto quotidiano, costanza, aspettative realistiche"
+    ],
+    "strategies_to_avoid_for_byo3": [
+      "Mostrare subito le bottiglie come hero visual nella fase di awareness",
+      "Promettere risultati rapidi o trasformativi",
+      "Usare claim medicali o linguaggio da terapia",
+      "Copiare letteralmente l'estetica di Thorne, Hims/Hers o dei carousel reference caricati",
+      "Usare dark clinic look troppo diagnostico o ansiogeno",
+      "Creare contenuti troppo tecnici senza traduzione consumer",
+      "Usare cliché wellness come detox, biohack, secret formula, miracle supplement",
+      "Rendere BYO3 troppo trendy, influencer-led o giovane per l'ICP adulto",
+      "Confondere ozone therapy, ozonoterapia medicale e ozono in capsule nutraceutico",
+      "Sovraccaricare le slide con troppo testo o troppe icone"
+    ],
+    "byo3_adaptation_rules": [
+      "Da Thorne: prendere ordine, precisione e premium science; aggiungere più calore umano.",
+      "Da Hims/Hers: prendere hook diretti e normalizzazione dello scetticismo; togliere eccesso pop o provocatorio.",
+      "Da AG1: prendere ritualità e educazione continua; evitare promesse olistiche troppo ampie.",
+      "Da Ritual: prendere trasparenza e chiarezza ingredientistica; mantenere una presenza più scientifico-tecnologica.",
+      "Da Huel: prendere chiarezza d'uso quotidiano; evitare tono troppo funzionale o food-tech.",
+      "Da ARMRA: prendere category education su ingrediente/tecnologia poco nota; evitare hype funzionale.",
+      "Da Bloom: prendere semplicità social e formato condivisibile; evitare estetica troppo colorata e influencer.",
+      "Da IM8: prendere percezione premium e healthspan; evitare promesse troppo aspirazionali o celebrity-coded."
+    ],
+    "content_implications": {
+      "recommended_first_phase_content": [
+        "Carousel: ozono in capsule vs ozonoterapia",
+        "Single post: validazione dello scetticismo",
+        "Carousel: stress ossidativo spiegato senza diagnosi",
+        "Single post: manifesto anti-hype sulla costanza",
+        "Carousel: stabilizzazione dell'ozono e capsule gastroresistenti",
+        "Carousel: glossario BYO3 dei termini chiave",
+        "Post: cosa BYO3 non promette",
+        "Carousel: perché la formulazione conta più dello slogan"
+      ],
+      "recommended_recurring_series": [
+        "Ozono in capsule, spiegato bene",
+        "Parole da capire",
+        "Mito vs realtà",
+        "Prima capire, poi scegliere",
+        "Tecnologia, non slogan",
+        "Routine senza hype"
+      ],
+      "recommended_hook_styles": [
+        "Hai ragione a essere scettico.",
+        "Ozono in capsule. Non ozonoterapia.",
+        "La differenza è nella tecnologia, non nello slogan.",
+        "Non promette miracoli. Promette costanza.",
+        "Prima capire. Poi scegliere.",
+        "Non è una diagnosi da social.",
+        "Un integratore serio dovrebbe spiegare prima di promettere."
+      ]
+    },
+    "final_competitive_rule": "BYO3 deve imparare dai migliori brand wellness il modo in cui costruiscono fiducia, categoria e ripetizione educativa, ma deve rimanere distinto: più italiano, più arioso, più scientifico, meno hype, meno clinico e completamente centrato sull'ozono in capsule come tecnologia nutraceutica da spiegare bene."
+  },
+  "final_brand_rule": "BYO3 deve avere lo stesso livello di sofisticazione dei reference caricati, ma non la stessa formula visiva. Deve essere più arioso, più scientifico, più nutraceutico, più chiaro e meno diagnostico."
+}

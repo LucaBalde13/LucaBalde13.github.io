@@ -1,0 +1,19 @@
+/* shadcn/ui Theme — extracted from https://byo3.it/ */
+/* Paste into your globals.css */
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 0 0% 0%;
+    --primary: 202 100% 27%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 39 80% 55%;
+    --secondary-foreground: 0 0% 0%;
+    --accent: 5 62% 58%;
+    --accent-foreground: 0 0% 100%;
+    --muted: 0 0% 18%;
+    --muted-foreground: 0 0% 13%;
+    --border: 213 9% 45%;
+    --radius: 3px;
+  }
+}
